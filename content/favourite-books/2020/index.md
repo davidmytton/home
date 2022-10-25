@@ -1,0 +1,31 @@
+---
+title: "My favourite books of 2020"
+date: 2021-01-04
+modified: 2021-01-04
+draft: false
+tags: ["Favourite Books", "Reading"]
+summary: "In 2020 I read 31 books. Here are the ones I rated 5 stars."
+url: my-favourite-books-of-2020
+---
+
+In 2020 I read 31 books (with an average length of 481 pages). I track all the
+books I read on [my reading list](https://davidmytton.blog/reading/). Here are
+the ones I recommend:
+
+## Fiction
+
+- Altered Carbon, Richard Morgan.
+- The Dark Forest, Liu Cixin.
+- Death’s End, Liu Cixin.
+- A Game of Thrones, George RR Martin.
+- A Clash of Kings, George RR Martin.
+- A Storm of Swords, Goerge RR Martin.
+- Shogun, James Clavell.
+- The Wall, John Lanchester.
+
+## Non-fiction
+
+- The Book of Tea, Kakuzo Okakura.
+- The Ascent of Money, Niall Ferguson.
+- On Liberty, John Stuart Mill.
+- Capital in the Twenty-First Century, Thomas Piketty.

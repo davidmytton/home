@@ -1,0 +1,48 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/getting-started/
+
+theme = "congo-2.3.1"
+baseURL = "https://davidmytton.blog/"
+defaultContentLanguage = "en"
+languageCode = 'en-us'
+enableGitInfo = true
+
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 10
+
+rssLimit = 10
+
+# Sets the overall build timeout to a high enough value to avoid errors when
+# deploying on a service with slow rendering i.e. Cloudflare Pages. Use with the
+# --debug flag to see how long it actually takes.
+timeout = "300s"
+
+[permalinks]
+blog = '/:title/'
+paper-notes = '/:title/'
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["modified", ":git", "date", "publishDate"]
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "rss"
+
+[privacy]
+[privacy.twitter]
+disable = false
+enableDNT = true
+simple = false
+[privacy.youtube]
+disable = false
+privacyEnhanced = true
+
+[social]
+twitter = "davidmytton"

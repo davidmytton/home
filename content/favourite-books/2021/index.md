@@ -1,0 +1,35 @@
+---
+title: "My favourite books of 2021"
+date: 2022-01-30
+modified: 2022-01-30
+draft: false
+tags: ["Favourite Books", "Reading"]
+summary: "In 2021 I read 22 books. Here are the ones I rated 5 stars."
+url: my-favourite-books-of-2021
+---
+
+In 2021 I read 22 books. I track all the books I read on [my reading
+list](https://davidmytton.blog/reading/). Here are the ones I recommend:
+
+## Fiction
+
+- Do Androids Dream of Electric Sheep?, Philip K Dick.
+- Armada, Ernest Cline.
+- The Fat Years, Chan Koochung.
+- One Second After, William R Forstchen.
+- The Ministry for the Future, Kim Stanley Robinson.
+- Atlas Shrugged, Ayn Rand.
+- Ball Lightning, Cixin Liu.
+- Dune, Frank Herbert.
+- The Hitchhiker’s Guide to the Galaxy, Douglas Adams.
+- Fatherland, Robert Harris.
+- Dominion, CJ Sansom.
+
+## Non-fiction
+
+- This Time Is Different, Carmen Reinhart & Kenneth Rogoff.
+- Doom: The Politics of Catastrophe, Niall Ferguson.
+- 1983: The World at the Brink, Taylor Downing.
+- The Hard Thing About Hard Things, Ben Horowitz.
+- Civilization: The West and the Rest, Niall Ferguson.
+- The Lion and the Unicorn: Socialism and the English Genius, George Orwell.

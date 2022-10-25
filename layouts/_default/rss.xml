@@ -1,0 +1,35 @@
+{{- $pctx := . -}}
+{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
+{{- $pages := slice -}}
+{{- if or $.IsHome $.IsSection -}}
+{{- $pages = $pctx.RegularPages -}}
+{{- else -}}
+{{- $pages = $pctx.Pages -}}
+{{- end -}}
+{{- $limit := .Site.Config.Services.RSS.Limit -}}
+{{- if ge $limit 1 -}}
+{{- $pages = $pages | first $limit -}}
+{{- end -}}
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>David Mytton</title>
+        <link>{{ .Permalink }}</link>
+        <description>A blog about environmental technology, sustainable computing, and startups.</description>
+        {{ with .Site.LanguageCode }}<language>{{.}}</language>{{end}}{{ if not .Date.IsZero }}
+        <lastBuildDate>{{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+        {{- with .OutputFormats.Get "RSS" }}
+            {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+        {{- end -}}
+        {{ range $pages }}
+        <item>
+            <title>{{ .Title }}</title>
+            <link>{{ .Permalink }}</link>
+            <dc:creator>{{ "<![CDATA[" | safeHTML }}David Mytton]]></dc:creator>
+            <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+            <guid>{{ .Permalink }}</guid>
+            <description>{{ "<![CDATA[" | safeHTML }} {{ .Summary }} ]]></description>
+            <content:encoded>{{ "<![CDATA[" | safeHTML }}{{ partial "rss.html" . | safeHTML }}]]></content:encoded>
+        </item>
+        {{ end }}
+    </channel>
+</rss>
