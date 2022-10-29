@@ -30,6 +30,7 @@ system is as follows:
 
 | Author                            | Title                                      | Published | Rating |
 | --------------------------------- | ------------------------------------------ | --------- | ------ |
+| Robert Harris                     | Lustrum                                    | 2009      | Good   |
 | Barack Obama                      | A Promised Land                            | 2020      | Good   |
 | Max Brooks                        | World War Z                                | 2006      | Good   |
 | Frank Dikötter                    | Mao's Great Famine                         | 2010      | Good   |
