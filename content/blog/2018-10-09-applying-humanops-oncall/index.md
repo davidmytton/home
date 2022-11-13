@@ -4,6 +4,7 @@ date: 2018-10-09
 modified: 2018-10-09
 draft: false
 tags: ["HumanOps"]
+canonicalUrl: https://blog.stackpath.com/applying-humanops-to-on-call
 url: applying-humanops-to-on-call
 ---
 

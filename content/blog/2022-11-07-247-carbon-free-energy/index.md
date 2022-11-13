@@ -7,6 +7,7 @@ tags: ["Data Center Energy", "Energy Systems"]
 summary: "With the grid mix constantly changing, what needs to happen to energy 
 systems to reach the goal of 24/7 carbon free energy? Google has funded two 
 studies to find out."
+canonicalUrl: https://www.devsustainability.com/p/energy-systems-and-247-carbon-free
 url: energy-systems-and-24/7-carbon-free-energy
 ---
 

@@ -4,6 +4,7 @@ date: 2009-07-10
 modified: 2009-07-10
 draft: false
 tags: ["Server Density Archive"]
+canonicalUrl: https://blog.serverdensity.com/2009/07/10/how-to-build-an-apple-push-notification-provider-server-tutorial/
 url: how-to-build-an-apple-push-notification-provider-server
 ---
 

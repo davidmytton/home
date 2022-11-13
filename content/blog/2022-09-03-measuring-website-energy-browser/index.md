@@ -6,6 +6,7 @@ draft: false
 tags: ["IT Energy", "Website Energy", "Network Energy", "Energy Efficiency", "Programming"]
 summary: "Firefox 104 introduces power consumption measurement in the profiler. 
 What does this mean for analyzing website energy consumption?"
+canonicalUrl: https://www.devsustainability.com/p/measuring-website-energy-consumption
 url: measuring-website-energy-consumption
 ---
 

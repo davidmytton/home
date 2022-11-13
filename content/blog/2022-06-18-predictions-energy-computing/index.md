@@ -7,6 +7,7 @@ tags: ["IT Energy"]
 summary: "Is it a good idea to make predictions about future energy consumption? 
 Even mature public businesses typically only issue earnings guidance for the next 
 quarter. Maybe it’s because predicting the future is hard?"
+canonicalUrl: https://www.devsustainability.com/p/predictions-in-energy-and-computing
 url: predictions-in-energy-and-computing
 ---
 

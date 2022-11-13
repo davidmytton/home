@@ -7,6 +7,7 @@ tags: ["Paper Notes", "IT Energy", "Hardware", "Programming"]
 summary: "Notes on the paper Khan et al (2018) RAPL in Action: Experiences in 
 Using RAPL for Power Measurements. Advantages and limitations of the Running 
 Average Power Limit (RAPL) interface."
+canonicalUrl: https://www.devsustainability.com/p/paper-notes-rapl-in-action
 url: paper-notes-rapl-in-action
 ---
 

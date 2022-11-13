@@ -7,6 +7,7 @@ tags: ["Cloud", "IT Energy", "Carbon Awareness"]
 summary: "Why isn’t carbon aware workload scheduling more common? Data center 
 level scheduling is infeasible, so what are the opportunities for developers to 
 implement more granular functionality?"
+canonicalUrl: https://www.devsustainability.com/p/carbon-aware-workloads-current-status-limitations-and-opportunities
 url: carbon-aware-workloads-current-status-limitations-and-opportunities
 ---
 

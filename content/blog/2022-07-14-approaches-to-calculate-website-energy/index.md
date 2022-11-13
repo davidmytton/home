@@ -6,6 +6,7 @@ draft: false
 tags: ["IT Energy", "Website Energy", "Network Energy"]
 summary: "Website carbon calculators are not very accurate, especially if they 
 only use data transfer as the metric."
+canonicalUrl: https://www.devsustainability.com/p/approaches-to-calculating-network-website-energy-and-carbon
 url: approaches-to-calculating-network-website-energy-and-carbon
 ---
 

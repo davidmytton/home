@@ -7,6 +7,7 @@ tags: ["Energy Systems"]
 summary: "It’s quite easy to argue that modern civilization is much more robust 
 and resilient than any ancient society, but consider how much of our critical 
 infrastructure is written in memory unsafe languages!"
+canonicalUrl: https://www.devsustainability.com/p/roman-climate-optimum-and-energy-system-resiliency
 url: roman-climate-optimum-and-energy-system-resiliency
 ---
 

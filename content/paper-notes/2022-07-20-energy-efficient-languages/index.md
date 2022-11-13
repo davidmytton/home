@@ -6,6 +6,7 @@ draft: false
 tags: ["Paper Notes", "IT Energy", "Programming", "Energy Efficiency"]
 summary: "Which languages are the fastest and most energy efficient? The simple 
 answer is: C, C++, Rust. The accurate answer is: it depends."
+canonicalUrl: https://www.devsustainability.com/p/paper-notes-energy-efficiency-across-programming-languages
 url: paper-notes-energy-efficiency-across-programming-languages
 ---
 

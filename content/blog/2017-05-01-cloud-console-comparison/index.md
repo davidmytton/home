@@ -7,6 +7,7 @@ tags: ["Cloud"]
 summary: "Developers are used to high quality design in consumer products, so 
 they expect the same when using business products. Why is this important and 
 how do the big 3 cloud providers compare?"
+canonicalUrl: https://www.infoworld.com/article/3193339/why-does-the-interface-matter-cloud-provider-consoles-compared.html
 url: why-does-the-interface-matter-cloud-provider-consoles-compared
 ---
 

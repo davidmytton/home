@@ -7,6 +7,7 @@ tags: ["IT Energy", "Carbon Awareness", "Energy Efficiency"]
 summary: "Developers need metrics that are consistent and easy to optimize, but 
 carbon intensity varies in time and space. So when is it a useful metric for 
 developers to consider?"
+canonicalUrl: https://www.devsustainability.com/p/is-carbon-the-right-metric-for-developers
 url: is-carbon-the-right-metric-for-developers-to-optimize
 ---
 

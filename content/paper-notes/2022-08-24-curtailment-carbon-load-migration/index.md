@@ -7,6 +7,7 @@ tags: ["Paper Notes", "IT Energy", "Data Center Energy"]
 summary: "This is a good paper that makes valid points about the possibilities 
 of migrating flexible IT workloads, however it makes classic assumptions I see 
 in most papers that discuss this topic."
+canonicalUrl: https://www.devsustainability.com/p/paper-notes-mitigating-curtailment
 url: paper-notes-mitigating-curtailment-and-carbon-emissions-through-load-migration-between-data-centers
 ---
 

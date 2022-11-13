@@ -6,6 +6,7 @@ draft: false
 tags: ["Paper Notes", "IT Energy", "Network Energy"]
 summary: "Removing the aggregation spine resulted in 5x higher speed and 
 capacity, and 41% reduction in power."
+canonicalUrl: https://www.devsustainability.com/p/paper-notes-jupiter-evolving-transforming
 url: paper-notes-jupiter-evolving-transforming-googles-datacenter-network
 ---
 

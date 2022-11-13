@@ -7,6 +7,7 @@ tags: ["Cloud", "Website Energy", "Energy Efficiency", "Programming"]
 summary: "Is it better to replace powerful developer laptops with cloud dev 
 environments? What is the carbon cost of my software development – builds, 
 tests, deploys, code hosting, dev environments?"
+canonicalUrl: https://www.devsustainability.com/p/sustainable-dev-environments-in-the-cloud
 url: sustainable-dev-environments-in-the-cloud
 ---
 

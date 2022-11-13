@@ -4,6 +4,7 @@ date: 2018-08-28
 modified: 2018-08-28
 draft: false
 tags: ["HumanOps"]
+canonicalUrl: https://blog.stackpath.com/what-is-humanops
 url: a-practical-guide-to-humanops-what-it-is-and-how-to-get-started
 ---
 

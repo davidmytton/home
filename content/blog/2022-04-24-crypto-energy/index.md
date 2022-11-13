@@ -8,6 +8,7 @@ summary: "Is cryptocurrency / Bitcoin bad for the environment? In 2019 crypto
 consumed 70-90 TWh of electricity globally, with 60-70 TWh of that from Bitcoin 
 mining. What that means for carbon emissions depends on where the mining 
 happens."
+canonicalUrl: https://www.devsustainability.com/p/how-much-energy-does-cryptocurrency-use
 url: how-much-energy-does-cryptocurrency-use
 ---
 

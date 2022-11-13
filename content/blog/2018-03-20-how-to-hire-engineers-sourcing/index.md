@@ -7,6 +7,7 @@ tags: ["Startups", "Hiring Engineers"]
 summary: "Whether you're looking for your first non-founder hire, an executive 
 level CTO or are building out a large team, sourcing and hiring engineers is 
 difficult. How do you find candidates?"
+canonicalUrl: http://seedcamp.com/resources/how-to-hire-engineers-sourcing-candidates/
 url: how-to-hire-engineers-sourcing-candidates
 ---
 

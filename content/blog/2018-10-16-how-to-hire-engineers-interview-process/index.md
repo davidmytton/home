@@ -7,6 +7,7 @@ tags: ["Startups", "Hiring Engineers"]
 summary: "The interview process for hiring engineers has 3 goals: evaluating 
 applications for team members now and the future, demonstrating why your 
 business is a good place to work and building a diverse team"
+canonicalUrl: https://seedcamp.com/resources/how-to-hire-engineers-the-interview-process/
 url: how-to-hire-engineers-the-interview-process
 ---
 
