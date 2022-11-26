@@ -1,7 +1,7 @@
 ---
 title: "How much energy do data centers use?"
 date: 2020-02-10
-modified: 2022-08-22
+modified: 2022-11-26
 draft: false
 tags: ["Data Center Energy", "IT Energy", "Cloud", "Energy Efficiency"]
 summary: "Globally, data centers were estimated to use between 196 terawatt 
@@ -13,25 +13,38 @@ Globally, data centers were estimated to use between 196 terawatt hours (TWh)
 ([Masanet et al, 2020](https://doi.org/10.1126/science.aba3758)) and 400 TWh
 ([Hintemann, 2020](https://dx.doi.org/10.13140/RG.2.2.26033.40800)) in 2020.
 This would mean data centers consume between 1-2% of global electricity demand.
+An upcoming publication [mentioned in a brief research
+note](https://rgdoi.net/10.13140/RG.2.2.31826.43207) from Borderstep may put the
+estimate at 350-500 TWh in 2021.
 
-However, this could be higher. One study suggests that global data center energy
-usage was 270 TWh in 2012 ([Van Heddeghem et al,
-2014](https://doi.org/10.1016/j.comcom.2014.02.008)). Another study estimates
+In Aug 2022 I co-authored [a comprehensive review of all data center energy
+estimates](https://doi.org/10.1016/j.joule.2022.07.011) between 2007-2021. In
+the review we analyze 258 data center energy estimates from 46 original
+publications between 2007 and 2021 to assess their reliability by examining the
+676 sources used. From this group, the only credible global models are from the
+two research groups represented by Masanet and Hintemann (Borderstep).
+
+However, there are other local publications which are worth examining because
+they suggest that the estimates could be much higher. For example, [Avgerinou,
+Bertoldi & Castellazzi L, 2017](https://doi.org/10.3390/en10101470) estimated
 that 104 TWh will be used by European Union data centers in 2020, which makes a
-global total of 200 TWh on the low end ([Avgerinou, Bertoldi & Castellazzi L,
-2017](https://doi.org/10.3390/en10101470)).
+global total of 200 TWh on the low end. This can be contrasted with a more
+recent analysis by [Montevecchi et al](https://dx.doi.org/10.2759/3320) which
+suggestes a major increase in the energy consumption of data centers in the
+EU28: 53.9 TWh/a to 76.8 TWh/a between 2010 and 2018. This is expected to grow
+21% to 92.6 TWh/a by 2025.
+[Note](/paper-notes-energy-efficient-cloud-computing-technologies-and-policies-for-an-eco-friendly-cloud-market/)
+that this is based on the Hintemann/Borderstep model, so it is not entirely
+independent.
 
 The variance in estimates is a major challenge for anyone trying to get to the
-bottom of how much energy data centers use. In Aug 2022 I co-authored [a
-comprehensive review of all data center energy
-estimates](https://doi.org/10.1016/j.joule.2022.07.011). In the review we
-analyze 258 data center energy estimates from 46 original publications between
-2007 and 2021 to assess their reliability by examining the 676 sources used. We
-show that 31% of sources were from peer-reviewed publications, 38% were from
-non-peer-reviewed reports, and many lacked clear methodologies and data
-provenance. We also highlight issues with source availability—there is a
-reliance on private data from IDC (43%) and Cisco (30%), 11% of sources had
-broken web links, and 10% were cited with insufficient detail to locate.
+bottom of how much energy data centers use. In [the Joule
+review](https://doi.org/10.1016/j.joule.2022.07.011) we show that 31% of sources
+were from peer-reviewed publications, 38% were from non-peer-reviewed reports,
+and many lacked clear methodologies and data provenance. We also highlight
+issues with source availability—there is a reliance on private data from IDC
+(43%) and Cisco (30%), 11% of sources had broken web links, and 10% were cited
+with insufficient detail to locate.
 
 In this article, I’ll look at what a data center is, the major components that
 make up a data center, their energy consumption and the relevancy of cloud
@@ -226,11 +239,11 @@ required to publish ([Department for Business, Energy & Industrial Strategy,
 However, when IT workloads are moved to the cloud and resources are purchased in
 tiny “virtual” units on a pay-as-you-go basis, their associated emissions shift
 to voluntary Scope 3 reporting as “indirect” or outsourced emissions ([Mytton,
-2020a](https://doi.org/10.1038/s41558-020-0837-6)). Data to calculate actual
-emissions is also no longer available because the major cloud vendors (Amazon
-Web Services, Google Cloud and Microsoft Azure) publish only aggregated global
-data, and with varying degrees of transparency ([Mytton,
-2020b](https://doi.org/10.1186/s13677-020-00185-8)).
+2020a](https://doi.org/10.1038/s41558-020-0837-6)). This means that cloud
+customers must rely on the cloud provider to release enough data to calculate
+their emissions. The major cloud vendors (Amazon Web Services, Google Cloud and
+Microsoft Azure) publish aggregated global data, and with varying degrees of
+transparency ([Mytton, 2020b](https://doi.org/10.1186/s13677-020-00185-8)).
 
 Amazon is the least transparent – they report limited environmental data other
 than their 2018 total carbon footprint: 44.4 million tCO2e ([Amazon,
@@ -248,30 +261,38 @@ and the cloud computing market growing from $6bn in 2008 to $288bn in 2019
 it is important that cloud vendors are transparent about their environmental
 footprint.
 
+As of 2022, [all three cloud operators give their customers cloud carbon
+calculators](/cloud-emissions-transparency-stage-1-completed-what-next/),
+although Microsoft’s is only available if you have an Enterprise Azure contract.
+How these figures are calculated is a separate
+question. [Google](https://cloud.google.com/carbon-footprint/docs/methodology) and [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=56950) provide
+details about their methodology, but AWS does not. [AWS also uses market-based
+GHG Protocol
+calculations](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ccft-estimation.html) whereas
+Google uses location-based reporting. Location-based is more useful because [it
+considers where the electricity is
+consumed](https://ghgprotocol.org/blog/top-ten-questions-about-scope-2-guidance) in
+relation to carbon mitigation in that region e.g. renewables on the same grid as
+the data center. It’s generally accepted practice to report both, but
+location-based reporting is important for encouraging demand for more clean
+energy where it is actually consumed.
+
 ![Total US electricity consumption by data centre
 type](data-center-electricity-consumption.png "Total US electricity consumption
 by data center type ([Shehabi,
 2016](https://eta.lbl.gov/publications/united-states-data-center-energy)).")
 
-However, the cloud is not all negative. Hyperscale providers operate at such a
-scale that they can justify activities such as Google building their own servers
-([Metz,
+Hyperscale providers operate at such a scale that they can justify activities
+such as Google building their own servers ([Metz,
 2016](https://www.wired.com/2016/05/googles-making-chips-now-time-intel-freak/); [GCP,
 2017](https://cloud.google.com/security/infrastructure/design/#hardware_design_and_provenance))
 and Microsoft constructing the first ever gas data center ([Belady & James,
 2017](https://blogs.microsoft.com/green/2017/09/24/redesigning-datacenters-advanced-energy-future/)),
-all of which contribute to improving energy efficiency.
-
-The technology sector is also the largest purchaser of renewables ([Kamiya, and
-Kvarnström,
+all of which contribute to improving energy efficiency. The technology sector is
+also the largest purchaser of renewables ([Kamiya, and Kvarnström,
 2019](https://www.iea.org/commentaries/data-centres-and-energy-from-global-headlines-to-local-headaches))
 ([but what does 100% renewable actually
-mean?](https://davidmytton.blog/how-can-data-centers-use-100-renewable-electricity/))
-and in Jan 2020, Microsoft announced a GHG Protocol compliant sustainability
-calculator so customers can calculate their individual cloud carbon footprint
-([Microsoft,
-2020](https://blogs.microsoft.com/blog/2020/01/16/microsoft-will-be-carbon-negative-by-2030/)).
-A similar approach should be adopted by all cloud vendors.
+mean?](https://davidmytton.blog/how-can-data-centers-use-100-renewable-electricity/)).
 
 ## Efficiency challenges ahead?
 
