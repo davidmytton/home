@@ -1,7 +1,7 @@
 ---
 title: "The best note taking apps for Mac – markdown, open format, cross platform"
 date: 2019-11-06
-modified: 2022-06-18
+modified: 2022-11-26
 draft: false
 tags: ["Productivity"]
 summary: "Apple Notes on macOS 10.15 is buggy so I decided to evaluate other 
@@ -175,21 +175,36 @@ Based on reviewing all the apps below, these are the best notes apps for Mac:
 
 1. **[Craft](https://www.craft.do/)**  
    Craft is the best notes app for macOS – it is truly Mac-native and fits into
-   the Apple design guidelines perfectly. It is also a very powerful notes tool
-   with editing based around blocks of different types – tables, paragraphs,
-   lists, images, etc. It supports Markdown includes support for separate
-   “external location” notebooks which operates purely on local files for you
-   to handle sync yourself. The main downside is it uses its own proprietary
-   JSON-based fileformat which goes against my “Markdown only” requirement.
-   However, the UX is so good and it has options to export to Markdown,
-   TextBundle and others, that I ended up switching from Obsidian.
+   the Apple design guidelines perfectly. It supports Markdown as well as
+   different types of content block. The main downside is it uses its own
+   proprietary JSON-based fileformat which goes against my “Markdown only”
+   requirement. It defaults to their cloud sync, but you can use an entirely
+   local source if you don't want your data stored on their service. The UX is
+   good, very macOS, and it has options to export to Markdown, TextBundle and
+   others. [A recent update added calculation functionality to
+   tables](https://www.craft.do/whats-new/b/88E93667-E75F-467F-9460-5BD5E766F73F/2.3.7_-_Craft_update_-_Major_Tables_),
+   but Notion remains significantly ahead when it comes to working with
+   [built-in databases](https://www.notion.so/help/intro-to-databases). We use
+   Notion extensively at [Console](https://console.dev) where the database
+   functionality is invaluable, but for my personal notes I prefer to keep away
+   from storing data exclusively in the cloud.
 2. **[Obsidian](https://obsidian.md/)**  
    Hits all my requirements – a simple, Markdown editor that opens files on
-   disk, is regularly updated and cross-platform. It is Electron, but has
-   become much faster than when I originally tried it back in 2019. The killer
-   features are the plugins, [the Kindle Sync
-   plugin](https://github.com/hadynz/obsidian-kindle-plugin) in particular.
-   This is why it beats Logseq.
+   disk, is regularly updated and cross-platform. It is Electron, but has become
+   much faster than when I originally tried it back in 2019. Syncing with Kindle
+   works either through [the Kindle Sync
+   plugin](https://github.com/hadynz/obsidian-kindle-plugin) or via the official
+   [Readwise
+   plugin](https://help.readwise.io/article/125-how-does-the-readwise-to-obsidian-export-integration-work)
+   if you use that for managing Kindle highlights (which I do). This is why it
+   beats Logseq. The `1.0` release introduces a brand new UI design which makes
+   it feel much more integrated into the OS. Notion and Craft both support slash
+   commands which you can use as you type in the editor. Obsidian supports those
+   as well, but only for global commands and not formatting - this seems like a
+   weird omission. Tables are very basic and don't come anywhere close to what
+   you can do with the new formulas functionality in Craft, let alone Notion's
+   databases. Sync is end-to-end encrypted, but you just have to trust their
+   implementation because it's not open source.
 3. **[Logseq](https://logseq.com/)**  
    I used Logseq for a long time before switching to Obsidian because of the
    community plugins. It’s a great app that hits all my requirements. The UI is
@@ -223,6 +238,11 @@ include embedded dates link together consistently, daily notes show up on the
 in-app calendar, you can auto-create notes from your linked calendar events,
 create deeplinks into a note.
 
+The table functionality recently got a boost, but it's still limited compared to
+the advanced databases in Notion (which I use to manage
+[Console](https://console.dev)). I expect this will continue to get better,
+though.
+
 All of this comes together for a really great experience on the Mac. They also
 have an iOS version which has lots of similar touches optimised for mobile. Plus
 a web version! Feature parity is not quite there with the desktop or mobile
@@ -254,32 +274,29 @@ blocker.
 
 This has now changed. Obsidian have resolved all the performance concerns I had,
 and significantly polished the UI to make it much closer to the minimalism of iA
-Writer and Logseq. It supports modern features like wiki-style backlinks and
-discovery of notes, powerful search and a command palette + quick search.
+Writer and Logseq. The new theme in 1.0 is a major improvement. It supports
+modern features like wiki-style backlinks and discovery of notes, search and a
+command palette + quick search. The table functionality is very limited though -
+it really is just tables. Craft is a bit better there, but Notion is the best
+there is. If you don't need structured data then it doesn't really matter.
 
 Obsidian is cross platform and includes an optional paid sync service, which is
 useful if you want to use their mobile app. I rarely take notes on mobile so I
 don’t need it, instead syncing everything using [Syncthing connected to a
 private network using
 Tailscale](https://console.dev/articles/private-p2p-encrypted-file-sync-syncthing-tailscale/).
+It's marketed as end to end encrypted, which is great, but you have to trust
+them on that because it's not open source.
 
 But the killer functionality comes from the community plugins, and [the Kindle
-Sync plugin](https://github.com/hadynz/obsidian-kindle-plugin) in particular. [I
-read a lot of books](https://davidmytton.blog/reading/) and make highlights /
-notes on my Kindle. Until Obsidian, I had a manual workflow of extracting them
-using [the Bookcision bookmark](https://readwise.io/bookcision) then pasting
-them into a Markdown note. Keeping a copy in my notes allowed me to search and
-discover them through backlinks. Now they’re synced automatically and kept up to
-date.
+Sync plugin](https://github.com/hadynz/obsidian-kindle-plugin) in particular. I
+used that until I switched my Kindle highlights management to Readwise, who have
+their own [official
+plugin](https://help.readwise.io/article/125-how-does-the-readwise-to-obsidian-export-integration-work)
+Obsidian plugin for sync.
 
 I also particularly like Obsidian’s split view – reminds me of tiling window
-managers on Linux! – and I use several plugins: [Kindle
-Highlights](https://github.com/hadynz/obsidian-kindle-plugin), [Markdown
-prettifier](https://github.com/cristianvasquez/obsidian-prettify), [Image
-editor](https://github.com/ozntel/oz-image-in-editor-obsidian), [Paste
-URL](https://github.com/denolehov/obsidian-url-into-selection) and [System Dark
-Mode](https://github.com/kepano/obsidian-system-dark-mode). It even has
-vim-mode, which makes manipulating text much faster.
+managers on Linux!
 
 Obsidian is not open source. It’s not a requirement because I have full control
 over my data, but I have a philosophical preference for using open source
@@ -287,8 +304,8 @@ products that are part of my core workflow. There’s no requirement to pay, or
 even sign up for any type of account. But I understand that this is a business,
 and I’m happy they offer paid options.
 
-![Screenshot of Obsidian](obsidian.png "Obsidian with split view showing Kindle
-book highlights (left) and notes from an academic paper (right).")
+![Screenshot of Obsidian 1.0](obsidian-1.0-ui.png "Obsidian note with the
+preview editor which renders as you type. This is the new 1.0 theme on macOS")
 
 ### Logseq
 
@@ -312,7 +329,7 @@ I also like the native Zotero integration. This connects to the Zotero API to
 provide in-app search of your reference library, which it can then import as a
 new note. It attaches the PDF to the note and has a [built-in reader which can
 export highlights directly into the
-note](https://logseq.github.io/#/page/pdf%20highlights). [Zotero 6 has a similar
+note](https://docs.logseq.com/#/page/pdf%20highlights). [Zotero 6 has a similar
 feature](https://www.zotero.org/blog/zotero-6/), but importing into the notes
 app is really useful. No other app integrates as well.
 
@@ -329,9 +346,9 @@ Although not originally designed for note taking, back in 2018 [iA
 Writer](https://ia.net/writer) added [support for
 `#hashtags`](https://ia.net/writer/blog/write-to-organize) which makes it much
 more suitable as a notes app. The subsequent addition of wiki-style backlinks
-in [the release of iA Writer 6](https://www.zotero.org/blog/zotero-6/) suggests
-they’re thinking more about how it can be used as a note taking or knowledge
-management app.
+in [the release of iA Writer
+6](https://ia.net/topics/ia-writer-6-now-with-lasers/) suggests they’re thinking
+more about how it can be used as a note taking or knowledge management app.
 
 Like Craft, I really like the UI on macOS because it fits in perfectly with the
 system design guidelines. It is very lightweight, simple to use and fits all my
