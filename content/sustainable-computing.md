@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Computing"
 date: 2017-12-01
-modified: 2022-10-29
+modified: 2022-11-26
 showDate: false
 showDateUpdated: true
 showAuthor: false
@@ -110,7 +110,8 @@ Interesting sources of data related to sustainable computing:
 
 ### Papers
 
-Interesting academic papers related to sustainable computing:
+Here are the most important academic papers related to sustainable computing,
+but [I also publish notes](/tags/paper-notes/) about papers I read:
 
 - **[The environmental footprint of data centers in the United
   States.](https://doi.org/10.1088/1748-9326/abfba1)** *Environmental Research
@@ -136,7 +137,10 @@ Interesting academic papers related to sustainable computing:
   worldwide](http://ceur-ws.org/Vol-2382/ICT4S2019_paper_16.pdf) (2019)
   and [Efficiency gains are not enough: Data center energy consumption continues
   to rise significantly](https://dx.doi.org/10.13140/RG.2.2.26033.40800) (2020)
-  with the last of these providing an estimate for 400 TWh for 2020.
+  with the last of these providing an estimate for 400 TWh for 2020. An upcoming
+  publication [mentioned in a brief research
+  note](https://rgdoi.net/10.13140/RG.2.2.31826.43207) may put the estimate at
+  350-500 TWh in 2021.
 - **[Electricity Intensity of Internet Data Transmission: Untangling the
   Estimates](http://doi.wiley.com/10.1111/jiec.12630).** *Journal of Industrial
   Ecology* (2018). This is the latest calculation of fixed-line network energy
@@ -145,12 +149,31 @@ Interesting academic papers related to sustainable computing:
   2 years. The notable aspect of this system boundary is that it excludes mobile
   devices.
 
-See also [my own publications](/publications/).
+See also [my own publications](/publications/) and [Sources of data center
+energy estimates: A comprehensive review _Joule_
+(2022)](https://doi.org/10.1016/j.joule.2022.07.011) in particular.
 
 ### Reports
 
 Interesting reports related to sustainable computing:
 
+- **[24/7 by
+  2030](https://www.gstatic.com/gumdrop/sustainability/247-carbon-free-energy.pdf),
+  Google (2020)** This describes the challenges with procuring 100% renewable
+  energy and why 100% doesn't actually mean 100%. It shows how this relates to
+  data centers and the path towards achieving it. Google is leading the industry
+  in this regard, but [there are challenges for the energy
+  system](/energy-systems-and-24/7-carbon-free-energy/).
+- **[Carbon impact of video streaming.
+  2021](https://www.carbontrust.com/resources/carbon-impact-of-video-streaming),
+  Carbon Trust** This is the most accurate analysis of the energy and carbon
+  footprint of video streaming. It was written through an industry partnership
+  with Netflix, so uses validated data, but based on academic models through
+  work done at the University of Bristol. It provides a clear description of the
+  conventional approach to calculating network energy using average intensity,
+  but also describes an important new power model. See my discussion in
+  [Measuring website energy consumption via browser
+  profiling](/measuring-website-energy-consumption/).
 - **[Clicking Clean
   Virginia](https://www.greenpeace.org/usa/reports/click-clean-virginia/),
   Greenpeace (2019)** Greenpeace are often seen as extremists but they do a good
