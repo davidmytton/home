@@ -11,11 +11,12 @@ url: sources-of-data-center-energy-estimates-a-comprehensive-review
 
 The scientific journal, [Joule](https://www.cell.com/joule/home), has published
 a paper I’ve co-authored reviewing data center energy estimates between
-2007-2021.
+2007-2021: [Sources of data center energy estimates: A comprehensive
+review](https://doi.org/10.1016/j.joule.2022.07.011)
 
-Due to the copyright license I cannot publish it here for 12 months, but you
-can [read it for free on ScienceDirect
-website](https://authors.elsevier.com/a/1fbcJ925JEJxvy).
+Due to the copyright license I can't publish it here for 12 months. If you do
+not have access via the link above, feel free to [contact me](/contact/) for a
+copy.
 
 ## Summary
 
