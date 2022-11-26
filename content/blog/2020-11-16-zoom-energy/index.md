@@ -1,7 +1,7 @@
 ---
 title: "Zoom, video conferencing, energy, and emissions"
 date: 2020-11-16
-modified: 2022-07-14
+modified: 2022-11-26
 draft: false
 tags: ["Data Center Energy", "IT Energy", "Network Energy"]
 summary: "It is obvious that Zoom is better for the environment than flying but 
@@ -156,8 +156,15 @@ in [absurd](https://davidmytton.blog/extrapolation-of-data-center-energy-estima
 Since writing this blog post in 2020, a different model of assessing energy
 intensity of applications which use the network has emerged depending on whether
 you are measuring the instantaneous increase in power consumption caused by that
-consumption, or whether you are allocating energy for reporting purposes. These
-approaches are discussed in detail in [the Carbon Trust Carbon
+consumption, or whether you are allocating energy for reporting purposes.
+
+The bottom line is that you can use averages to calculate energy consumption for
+past usage if you know the total energy and total data transferred. With these
+values, you can calculate an average intensity and then allocate it to a
+specific application. That's fine for reporting, but doesn't accurately describe
+the real situation. You can't use energy intensity figures to make assessments
+of the present or make projections for the future. These approaches are
+discussed in detail in [the Carbon Trust Carbon
 report](https://prod-drupal-files.storage.googleapis.com/documents/resource/public/Carbon-impact-of-video-streaming.pdf) and
 at a high level [in a 2021 article in
 Joule](https://dx.doi.org/10.1016/j.joule.2021.05.007). [I wrote also a post
