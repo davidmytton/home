@@ -1,7 +1,7 @@
 ---
 title: "Reading"
 date: 2017-12-01
-modified: 2022-10-27
+modified: 2022-12-04
 showDate: false
 showDateUpdated: true
 showAuthor: false
@@ -31,6 +31,8 @@ system is as follows:
 
 | Author                            | Title                                      | Published | Rating |
 | --------------------------------- | ------------------------------------------ | --------- | ------ |
+| Robert Harris                     | Act of Oblivion                            | 2022      | Ok     |
+| Andy Grove                        | Only the Paranoid Survive                  | 1996      | Good   |
 | Robert Harris                     | Lustrum                                    | 2009      | Good   |
 | Barack Obama                      | A Promised Land                            | 2020      | Good   |
 | Max Brooks                        | World War Z                                | 2006      | Good   |
