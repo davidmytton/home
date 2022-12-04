@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["blog", "favourite-books", "paper-notes"]
+mainSections = ["blog", "favourite-books", "paper-notes", "publications"]
 # robots = ""
 
 [header]
