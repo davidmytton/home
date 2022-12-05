@@ -2,7 +2,7 @@
 title: "Press"
 date: 2017-12-01
 showDate: false
-modified: 2022-10-16
+modified: 2022-12-05
 showDateUpdated: false
 showAuthor: false
 draft: false
@@ -11,6 +11,8 @@ summary: "David Mytton press coverage and media appearances."
 
 ## Quotes / interviews
 
+- [28 Nov 2022 - AWS joins the water positive gang, claims it will be there by 2030](https://www.theregister.com/2022/11/28/aws_water_positive_2030/)
+  _The Register_
 - [14 Oct 2022 - How much water do data centres use? Most tech companies won't
   say](https://www.newscientist.com/article/2342490-how-much-water-do-data-centres-use-most-tech-companies-wont-say/)  
   _New Scientist_
