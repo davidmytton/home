@@ -41,8 +41,8 @@ pageRef = "reading"
 weight = 6
 
 [[main]]
-name = "I Use"
-pageRef = "iuse"
+name = "Uses"
+pageRef = "uses"
 weight = 7
 
 [[main]]

@@ -1,5 +1,5 @@
 ---
-title: "I Use"
+title: "Uses"
 date: 2019-12-31
 showDate: false
 modified: 2021-12-31
