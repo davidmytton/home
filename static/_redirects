@@ -1,7 +1,7 @@
 /start /
 /start/ /
-/i-use /uses
-/i-use/ /uses
+/iuse /uses
+/iuse/ /uses
 /feed /rss.xml
 /feed/ /rss.xml
 /data-centre-water-consumption /how-much-water-do-data-centers-use/
