@@ -19,7 +19,7 @@ mainSections = ["blog", "favourite-books", "paper-notes", "publications"]
 layout = "custom" # valid options: basic, hamburger, custom
 
 [footer]
-showCopyright = false
+showCopyright = true
 showThemeAttribution = false
 showAppearanceSwitcher = false
 showScrollToTop = true
@@ -35,7 +35,7 @@ showAuthor = true
 showBreadcrumbs = false
 showDraftLabel = true
 showEdit = false
-# editURL = "https://github.com/username/repo/"
+editURL = "https://github.com/davidmytton/home/tree/main/content"
 editAppendPath = true
 showHeadingAnchors = true
 showPagination = true

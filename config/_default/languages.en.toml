@@ -8,7 +8,7 @@ rtl = false
 title = "David Mytton"
 # logo = "img/logo.jpg"
 # description = "My awesome website"
-#copyright = ""
+copyright = "&copy; David Mytton. [Source available on GitHub](https://github.com/davidmytton/home)."
 
 dateFormat = "2 January 2006"
 
