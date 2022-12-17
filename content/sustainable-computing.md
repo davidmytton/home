@@ -23,11 +23,12 @@ that means it has a net zero impact on the environment, a broad concept that
 includes energy, ecosystems, pollution and natural resources.
 
 I consider that individual impact on the environment rounds to zero because
-although some people will change their behaviour, most won’t. This means that
-systems need to change. Energy production, transportation, manufacturing,
-agriculture. The transition to sustainability needs to be done on behalf of the
-individual by the system and at a large scale, so individuals can benefit from
-that change by default.
+although some people will change their behaviour, [most
+won’t](https://doi.org/10.1177/1469540517717782). This means that systems need
+to change. Energy production, transportation, manufacturing, agriculture. The
+transition to sustainability needs to be done on behalf of the individual by the
+system and at a large scale, so individuals can benefit from that change by
+default.
 
 In computing, this means the organisations responsible for manufacturing
 components, building equipment, writing software, operating data centres, and
