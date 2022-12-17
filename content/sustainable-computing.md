@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Computing"
 date: 2017-12-01
-modified: 2022-11-26
+modified: 2022-12-17
 showDate: false
 showDateUpdated: true
 showAuthor: false
@@ -34,10 +34,10 @@ components, building equipment, writing software, operating data centres, and
 running networks have responsibility for achieving sustainability.
 
 Sustainability strategies in computing tend to focus on energy and the
-transition to renewables – the use stage. This is important, but not the only
+transition to clean energy – the use stage. This is important, but not the only
 factor.
 
-Sustainable computing therefore involves not just renewable energy, but also
+Sustainable computing therefore involves not just clean energy, but also
 minimising water stress, developing policies around the right to repair and
 recycling of materials through a circular economy, energy efficiency of hardware
 and software, promoting good governance of resources, transparency, and
@@ -92,7 +92,7 @@ Interesting sources of data related to sustainable computing:
   regions**](https://cloud.google.com/sustainability/region-carbon). Google is
   the leader in sustainable cloud computing. They have done the most work and
   made the most progress at reaching carbon neutrality, then 100% renewables
-  matching, and have a goal to hit 24/7 renewables by 2030. They are less
+  matching, and have a goal to hit 24/7 carbon free by 2030. They are less
   transparent on water consumption, but do publish data on their carbon free
   energy percentage for each GCP region.
 - **[SPECPower database](https://www.spec.org/power_ssj2008/results/)**. The
@@ -159,7 +159,7 @@ Interesting reports related to sustainable computing:
 
 - **[24/7 by
   2030](https://www.gstatic.com/gumdrop/sustainability/247-carbon-free-energy.pdf),
-  Google (2020)** This describes the challenges with procuring 100% renewable
+  Google (2020)** This describes the challenges with procuring 100% carbon free
   energy and why 100% doesn't actually mean 100%. It shows how this relates to
   data centers and the path towards achieving it. Google is leading the industry
   in this regard, but [there are challenges for the energy
