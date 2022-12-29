@@ -1,7 +1,7 @@
 ---
 title: "Reading"
 date: 2017-12-01
-modified: 2022-12-04
+modified: 2022-12-29
 showDate: false
 showDateUpdated: true
 showAuthor: false
@@ -17,7 +17,7 @@ my reading history.
 I update this page periodically and [I write an annual blog
 post](/tags/favourite-books/) listing my favourite books of that year. I also
 have a post with [book recommendations for startup
-founders](https://davidmytton.blog/the-best-books-for-startup-founders-and-ceos/).
+founders](/the-best-books-for-startup-founders-and-ceos/).
 
 Books below are sorted in the order I read them, most recent first. My rating
 system is as follows:
@@ -31,6 +31,8 @@ system is as follows:
 
 | Author                            | Title                                      | Published | Rating |
 | --------------------------------- | ------------------------------------------ | --------- | ------ |
+| Robert Harris                     | Dictator                                   | 2015      | Good   |
+| Niall Ferguson                    | The War of the World                       | 2006      | Good   |
 | Robert Harris                     | Act of Oblivion                            | 2022      | Ok     |
 | Andy Grove                        | Only the Paranoid Survive                  | 1996      | Good   |
 | Robert Harris                     | Lustrum                                    | 2009      | Good   |
