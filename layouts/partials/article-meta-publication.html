@@ -19,6 +19,12 @@
     {{ $meta.Add "partials" (slice (partial "meta/date.html" .Date)) }}
   {{ end }}
 
+  {{/* David edit: Add full text link */}}
+  {{ if .Params.doi }}
+    {{ $link :=  printf "<a href=\"https://doi.org/%s\" target=\"blank\">%s</a>" .Params.doi .Params.doi }}
+    {{ $meta.Add "partials" $link }}
+  {{ end }}
+
   {{ if and (.Params.showDateUpdated | default (.Site.Params.article.showDateUpdated | default false)) (ne (partial "functions/date.html" .Date) (partial "functions/date.html" .Lastmod)) }}
     {{ $meta.Add "partials" (slice (partial "meta/date-updated.html" .Lastmod)) }}
   {{ end }}
@@ -62,6 +68,14 @@
               >{{ .LinkTitle }}</a
             >
           {{ end }}
+         {{ if $.Params.fullTextUrl}}
+          <a
+              href="{{ $.Params.fullTextUrl }}"
+              class="rounded-md border px-1 py-[1px] hover:border-primary-300 hover:text-primary-700 dark:border-neutral-600 dark:hover:border-primary-600 dark:hover:text-primary-400"
+              style="border-color: green; color: green"
+              >Full Text Available</a
+            >
+          {{end}}
         {{ end }}
       {{ end }}
     </div>

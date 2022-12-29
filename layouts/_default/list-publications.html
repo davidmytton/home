@@ -36,9 +36,10 @@
     {{ .Key }}
   </h2>
   <hr class="border-dotted w-36 border-neutral-400" />
-  {{ range .Pages }} {{ partial "article-publication.html" . }} {{ end }} {{ end
-  }} {{ else }} {{ range (.Paginate .Pages).Pages }} {{ partial
-  "article-publication.html" . }} {{ end }} {{ end }}
+  {{ range .Pages }} {{ if not .Params.fullText }} {{ partial
+  "article-publication.html" . }} {{end}} {{end}} {{ end }} {{ else }} {{ range
+  (.Paginate .Pages).Pages }} {{ if not .Params.fullText }} {{ partial
+  "article-publication.html" . }} {{ end }} {{end}} {{ end }}
 </section>
 {{ partial "pagination.html" . }} {{ else }}
 <section class="mt-10 prose dark:prose-invert">
