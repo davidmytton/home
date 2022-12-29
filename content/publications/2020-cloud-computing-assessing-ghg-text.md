@@ -237,7 +237,7 @@ electricity grid the data center is connected to [46].
 To understand the full environmental impact of cloud environments, we must
 consider all components that make up “cloud” services (Fig. 1).
 
-![Fig 1: Public cloud components](2020-cloud-computing-assessing-ghg-fig1.png "Fig 1: Public cloud components")
+![Fig 1: Public cloud components](/publications/2020-cloud-computing-assessing-ghg-fig1.png "Fig 1: Public cloud components")
 
 ## Using the GHG Protocol to assess cloud vendor emissions
 
