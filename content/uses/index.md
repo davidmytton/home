@@ -2,15 +2,48 @@
 title: "Uses"
 date: 2019-12-31
 showDate: false
-modified: 2021-12-31
+modified: 2022-12-29
 showDateUpdated: true
 showAuthor: false
 draft: false
 summary: "The computer hardware and software I use."
 ---
 
-On 31 Dec every year I record what I’m using for my personal computer setup.
+At the end of every year I record what I’m using for my personal computer setup.
 Why? It’s fun to see how things will change over the years.
+
+## 2022-12-29
+
+![Screenshot of my desktop](desktop-2022-12-29.png "Screenshot of my Apple
+MacBook Air running macOS.")
+
+- **Main computer:** Apple MacBook Air M1, 2020 (macOS 13.1).
+- **Display:** LG 32UN880 32″ Ultrafine 4K.
+- **Keyboard:** System76 Launch.
+- **Mouse:** Logitech MX Master 3
+- **Phone:** iPhone 11 Pro (iOS 16).
+- **Watch:** Apple Watch Series 4 (watchOS 9).
+- **Headphones:** Apple AirPods Pro 2 & Sony WH-1000XM4.
+- **Reading:** Kindle Paperwhite 3 (2015).
+- **Mainly programming in:** Go & Typescript.
+- **Key Software:**
+  - **Backup:** [Arq](https://www.arqbackup.com/) + OneDrive
+    + [Syncthing](https://syncthing.net/) + [B2 Cloud
+    Storage](https://www.backblaze.com/b2/cloud-storage.html).
+  - **Blog:** [Hugo](https://gohugo.io/) &
+    [Congo](https://jpanther.github.io/congo/) on Cloudflare Pages.
+  - **Browser:** Safari & Brave.
+  - **Calendar:** [Fantastical](https://flexibits.com/fantastical) & Google
+    Calendar (personal & [Console](https://console.dev/)).
+  - **Code:** Git + GitHub.
+  - **Editor**: VS Code.
+  - **File Storage / Sync:** iCloud Drive (personal) & Google Drive
+    ([Console](https://console.dev/))
+  - **Mail:** Superhuman
+  - **Music:** Apple Music.
+  - **Notes:** Notion & Obsidian & Apple Notes.
+  - **Podcasts:** Overcast.
+  - **Terminal**: iTerm.
 
 ## 2021-12-31
 
