@@ -13,6 +13,12 @@ url: publications/2020-cloud-computing-assessing-ghg
 fullText: true
 ---
 
+{{< alert "list" >}}
+**Citation:** Mytton, D. Assessing the suitability of the Greenhouse Gas Protocol for
+calculation of emissions from public cloud computing workloads. J Cloud Comp 9,
+45 (2020). <https://doi.org/10.1186/s13677-020-00185-8>
+{{< /alert >}}
+
 ## Abstract
 
 Efficiency improvements over the past decade have meant that data center energy
@@ -28,12 +34,6 @@ factors and equipment embodied energy are not available from public cloud
 vendors. This paper demonstrates how the Greenhouse Gas Protocol method of
 assessment of IT emissions does not work for public cloud environments and
 suggests how this can be tackled by the cloud vendors themselves.
-
-### Cite this article
-
-Mytton, D. Assessing the suitability of the Greenhouse Gas Protocol for
-calculation of emissions from public cloud computing workloads. J Cloud Comp 9,
-45 (2020). <https://doi.org/10.1186/s13677-020-00185-8>
 
 ## Introduction
 

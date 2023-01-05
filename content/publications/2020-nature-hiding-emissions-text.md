@@ -12,6 +12,11 @@ fullText: true
 url: publications/2020-nature-hiding-emissions
 ---
 
+{{< alert "list" >}}
+**Citation:** Mytton, D. Hiding greenhouse gas emissions in the cloud. Nat.
+Clim. Chang. 10, 701 (2020). <https://doi.org/10.1038/s41558-020-0837-6>
+{{< /alert >}}
+
 To the Editor — Data centres account for 200 TWh yr–1, or around 1% of total
 global electricity demand[^1]. While their energy usage has been stable in
 recent years as efficiencies increase, it may grow to between 15–30% of
