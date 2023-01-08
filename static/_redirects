@@ -4,7 +4,9 @@
 /iuse/ /uses
 /feed /rss.xml
 /feed/ /rss.xml
+/tags/favourite-books /favourite-books/
+/tags/favourite-books/ /favourite-books/
 /data-centre-water-consumption /how-much-water-do-data-centers-use/
 /data-centre-water-consumption/ /how-much-water-do-data-centers-use/
-/sources-of-data-center-energy-estimates-a-comprehensive-review https://doi.org/10.1016/j.joule.2022.07.011
-/sources-of-data-center-energy-estimates-a-comprehensive-review/ https://doi.org/10.1016/j.joule.2022.07.011
+/sources-of-data-center-energy-estimates-a-comprehensive-review <https://doi.org/10.1016/j.joule.2022.07.011>
+/sources-of-data-center-energy-estimates-a-comprehensive-review/ <https://doi.org/10.1016/j.joule.2022.07.011>
