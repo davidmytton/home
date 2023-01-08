@@ -137,6 +137,13 @@ can buy tickets for guests, and you'll sit next to them, but there are always
 new people around you. This makes it just as fun to go by yourself as with
 friends.
 
+A surprising amount of event organization happens via Facebook. This is a bit
+annoying because I deleted my account many years ago. I almost ended up creating
+an account just to join the various groups, but there are also email mailing
+lists and most of the events I was interested in were announced there. That and
+the WhatsApp groups (acceptable because message content is end to end
+encrypted).
+
 ![Photo of lunch inside the dining room at Kellogg College, Oxford](dining-at-kellogg.jpeg "Photo of lunch inside the dining room at Kellogg College, Oxford, after the Matriculation Ceremony.")
 
 ## Researching sustainable computing
