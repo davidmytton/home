@@ -139,10 +139,11 @@ friends.
 
 A surprising amount of event organization happens via Facebook. This is a bit
 annoying because I deleted my account many years ago. I almost ended up creating
-an account just to join the various groups, but there are also email mailing
-lists and most of the events I was interested in were announced there. That and
-the WhatsApp groups (acceptable because message content is end to end
-encrypted).
+an account just to join the various groups, but there are email mailing lists
+for groups, clubs, etc, and most of the events I was interested in were also
+announced there. That and WhatsApp groups (acceptable because message content is
+end to end encrypted). Oxford IT is all based on Microsoft 365 with a single
+signon account that works well.
 
 ![Photo of lunch inside the dining room at Kellogg College, Oxford](dining-at-kellogg.jpeg "Photo of lunch inside the dining room at Kellogg College, Oxford, after the Matriculation Ceremony.")
 
