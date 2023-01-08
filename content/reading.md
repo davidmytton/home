@@ -10,13 +10,12 @@ summary: "Book recommendations and reading log."
 ---
 
 I have been keeping a log of every book I read, plus a rating, since the end of 2017. This was originally on Goodreads, but I wanted to own the data rather than
-giving it to Amazon. [I still think the Kindle is
-great](https://davidmytton.blog/iuse/), but I want to control the publication of
-my reading history.
+giving it to Amazon. [I still think the Kindle is great](/uses/), but I want to
+control the publication of my reading history.
 
 I update this page periodically and [I write an annual blog
-post](/tags/favourite-books/) listing my favourite books of that year. I also
-have a post with [book recommendations for startup
+post](/favourite-books/) listing my favourite books of that year. I also have a
+post with [book recommendations for startup
 founders](/the-best-books-for-startup-founders-and-ceos/).
 
 Books below are sorted in the order I read them, most recent first. My rating
