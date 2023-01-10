@@ -76,12 +76,13 @@ devops, infrastructure, cloud, APIs) where I have made [20+
 investments](https://console.dev/zero/#portfolio). If you are looking for
 investment, please see [Console Zero](https://console.dev/zero/).
 
-Prior to Console, my investments
-include [Contingent](https://www.contingent.ai/),
+Prior to Console, my investments include
+[Atmo](https://www.atmo.ai), [Contingent](https://www.contingent.ai/),
 [Graphy](https://graphyapp.com/), [Gaiascope](https://www.gaia-scope.com/),
 [Living Carbon](https://www.livingcarbon.com/), [Loc.tax](https://www.loc.tax/),
 [Monzo](https://monzo.com/), [Primer](https://primer.io/),
-[SignTime](https://www.signtime.com/), [StackPath](https://www.stackpath.com/),
+[SignTime](https://www.signtime.com/),
+[Sinai](https://www.sinaitechnologies.com), [StackPath](https://www.stackpath.com/),
 [Sylvera](https://www.sylvera.io/).
 
 ## Roles
