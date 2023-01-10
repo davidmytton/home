@@ -138,3 +138,14 @@ Prior to Console, my investments include
 - **Parliamentary and policy update writer, [Open Rights
   Group](https://www.openrightsgroup.org/)**  
    _2013_
+
+## Education
+
+- [Engineering Science
+  (DPhil)](https://www.ox.ac.uk/admissions/graduate/courses/dphil-engineering-science),
+  University of Oxford, 2022-Present.
+- [Environmental Technology
+  (MSc)](https://www.imperial.ac.uk/environmental-policy/msc/), Imperial College
+  London, 2019-2020.
+- [Law (LLB)](https://www.birmingham.ac.uk/schools/law/courses/llb/index.aspx),
+  University of Birmingham, 2007-2010.
