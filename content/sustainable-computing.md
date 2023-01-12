@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Computing"
 date: 2017-12-01
-modified: 2022-12-17
+modified: 2023-01-12
 showDate: false
 showDateUpdated: true
 showAuthor: false
@@ -287,6 +287,8 @@ Interesting tools related to sustainable computing:
   already know the topic, but a great intro to the current state of things.
 - [**Hot Carbon 2022**](https://hotcarbon.org/): A conference/workshop all about
   sustainable computing, with videos and papers for most of the talks.
+- [**Open Sustainable Technology**](https://opensustain.tech): A list of open
+  tech projects, libraries, data, tools, and other useful things.
 - [**Principles of Green Software Engineering**](https://principles.green/): A
   set of principles for software engineers to keep in mind when writing software
   to try and reduce its environmental impact (which usually means carbon, but
