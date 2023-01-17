@@ -1,8 +1,8 @@
 ---
 title: "DPhil in Engineering Science"
-date: 2023-01-12
-modified: 2023-01-12
-draft: true
+date: 2023-01-16T12:00:00
+modified: 2023-01-16T12:00:00
+draft: false
 tags: ["IT Energy", "PhD"]
 summary: "In October 2022 I started a DPhil (PhD) in Engineering
 Science researching sustainable computing at the University of Oxford."
@@ -70,21 +70,21 @@ Bodleian Old Library")
 ## Start of term
 
 Oxford is unusual in how short the terms are. Michaelmas 2022 started on Oct 9,
-2022, and finished on Dec 3, 2022. Hilary 2023 is about to start (Jan 15) and
+2022, and finished on Dec 3, 2022. Hilary 2023 has just started (Jan 15) and
 finishes on Mar 11. Most of my time is self-directed and not based in Oxford, so
 the terms are less relevant. However, I decided to spend the first 2 weeks of
 the term physically in Oxford so I could enjoy all the benefits of being at such
 a historic university.
 
 Oxford is famously made up of different colleges (45 in total) and all students
-are members of a college. However, unlike undergraduate degrees where you apply
-and are offered a college place, graduate applications are made to a particular
-department. If the department offers you a place, you are guaranteed a place by
-a college. You can specify a preference, but there’s no public information about
-how colleges choose and how successful applicants are distributed. I was offered
-a place by a different college ([Kellogg](https://www.kellogg.ox.ac.uk/)) from
-the one I expressed a preference for. This seemed to be the case for many other
-people I spoke to.
+are members of a college. However, unlike undergraduate degrees where you are
+primarily based in a college so it is the college who offers the place, graduate
+applications are made to a particular department. If the department offers you a
+place, you are guaranteed a place by a college. You can specify a preference,
+but there’s no public information about how colleges choose to make an offer and
+how successful applicants are distributed. I was offered a place by a different
+college ([Kellogg](https://www.kellogg.ox.ac.uk/)) from the one I expressed a
+preference for. This seemed to be the case for many other people I spoke to.
 
 For undergraduates, the college is a big part of the experience – it’s where
 they live, eat, socialize, and have tutorials. For graduate students, the
@@ -95,18 +95,19 @@ My university card, known as a “bod card”, gives me access to [26 different
 libraries](https://www.bodleian.ox.ac.uk/libraries) which collectively make up
 “the Bodleian Library”. All of these have different subject specializations and
 are in different buildings of varying architectural styles, so I spent most of
-my time exploring the different options. My favorite is [Duke Humfrey’s
+my first 2 weeks exploring the different options. My favorite is [Duke Humfrey’s
 Library](https://en.wikipedia.org/wiki/Duke_Humfrey%27s_Library) which is inside
 the Bodleian Old Library. Originally built between 1450-1480 and used in the
 Harry Potter films as the Hogwarts Library, it’s amazing to be able to work in
 such a historic setting. The only drawback is that you must leave all personal
 items in lockers and can only take a laptop (loose, no case) because of the
 sensitivity of the old books. The Radcliffe Camera is also a good choice, but it
-gets busy and can be hard to find a free space.
+gets busy during term time so can be hard to find a free space.
 
-The city is the university, so you can go into the Botanic Gardens and most
-colleges for free (Baliol, New College, and Magdalen have impressive grounds).
-Once you join Oxford, you’re a member for life.
+The city is the university, so you can go into university owned places such as
+the Botanic Gardens and other colleges for free (Baliol, New College, and
+Magdalen have impressive grounds). Once you join Oxford, you’re a member for
+life.
 
 ![Photo of the interior of Duke Humphrey's Library](duke-humphrey-library.jpg "The interior of Duke Humphrey's Library, the oldest reading room of the
 Bodleian Library in the University of Oxford. From
@@ -124,9 +125,9 @@ every day during term time, and you simply sit next to whoever you want at the
 long dining tables. The first time I experienced this was awkward because you’re
 probably sitting next to people you don’t know, but you quickly find out that’s
 the whole point. Everyone is friendly, and the first questions are invariably
-“what are you studying” and “where are you from”. This may be particular to my
-college because it is graduate-only, but colleges organize “exchanges”, so you
-also get to visit different ones.
+“what are you studying?” and “where are you from?”. Colleges organize
+“exchanges”, so you also get to visit different ones and meet people outside
+your own college.
 
 This continues at the formal dinners. Each college does this their own way, but
 if you wander around Oxford around 6pm any evening, you will usually see
@@ -152,14 +153,13 @@ signon account that works well.
 The original research proposal that formed my application is already out of
 date! A part-time PhD is 6-8 years in length, so a big challenge is relevancy.
 Technology changes so quickly that anything I started now is going to be out of
-date in 6-8 years!
+date by then!
 
 I'm therefore aiming to publish as I go, and I have started several papers which
 I hope to be out in 2023. After these, I’m expecting more output to involve
 open-source software, such as [my contributions to the Cloud Carbon Footprint
 project](https://github.com/cloud-carbon-footprint/cloud-carbon-coefficients). I
 wouldn’t want to be in academia full time because it [operates very slowly
-compared to the startup
-world](https://davidmytton.blog/startup-cadence-academic-cadence/), but it is
-good to be attached to a high-caliber institution and being able to meet and
-work alongside such interesting people.
+compared to the startup world](/startup-cadence-academic-cadence/), so it's good
+to be able to take the best from both worlds by being attached to a high-caliber
+institution and able to meet and work alongside such interesting people.
