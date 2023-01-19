@@ -259,4 +259,5 @@ find / -user miguel 2>/dev/null
 
 ## Other resources
 
-[Linux Privilege Escalation – Resources – Siren Security](https://sirensecurity.io/blog/linux-privilege-escalation-resources/)
+- [Linux Privilege Escalation – Resources – Siren Security](https://sirensecurity.io/blog/linux-privilege-escalation-resources/)
+- [Siren Common](https://sirensecurity.io/blog/common/)
