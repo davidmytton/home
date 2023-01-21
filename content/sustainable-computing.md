@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Computing"
 date: 2017-12-01
-modified: 2023-01-12
+modified: 2023-01-21
 showDate: false
 showDateUpdated: true
 showAuthor: false
