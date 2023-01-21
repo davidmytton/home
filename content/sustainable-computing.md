@@ -273,6 +273,10 @@ Interesting tools related to sustainable computing:
   guide](https://firefox-source-docs.mozilla.org/performance/powermetrics.html) which
   describes the measurement tools available in the Firefox source code.
 
+See also [the PyData 2022 slides from Green
+Coding](https://www.green-coding.berlin/slides/PyData-Talk.pdf) which provide a
+good summary of energy measurement tools.
+
 ### Other
 
 - [**Awesome Green
