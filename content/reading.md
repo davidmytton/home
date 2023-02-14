@@ -26,6 +26,12 @@ system is as follows:
   many books, so you might as well focus on the best ones.
 - **Bad:** Do not read.
 
+## 2023
+
+| Author      | Title           | Published | Rating |
+| ----------- | --------------- | --------- | ------ |
+| James Corey | Leviathan Wakes | 2011      | Good   |
+
 ## 2022
 
 | Author                            | Title                                      | Published | Rating |
