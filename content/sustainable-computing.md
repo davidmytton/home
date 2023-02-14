@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Computing"
 date: 2017-12-01
-modified: 2023-01-21
+modified: 2023-02-14
 showDate: false
 showDateUpdated: true
 showAuthor: false
@@ -291,6 +291,11 @@ good summary of energy measurement tools.
   already know the topic, but a great intro to the current state of things.
 - [**Hot Carbon 2022**](https://hotcarbon.org/): A conference/workshop all about
   sustainable computing, with videos and papers for most of the talks.
+- [**Guarantees of Origin, Renewable Energy Certificates and the Residual Mix in
+  LCA**](https://www.ecocostsvalue.com/lca/gos-and-recs-in-lca/): A good summary
+  of the complications of measuring where renewable energy is generated and how
+  to account for it. Relevant for understanding "100% clean energy" claims with
+  PPAs and RECs.
 - [**Open Sustainable Technology**](https://opensustain.tech): A list of open
   tech projects, libraries, data, tools, and other useful things.
 - [**Principles of Green Software Engineering**](https://principles.green/): A
