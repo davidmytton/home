@@ -6,27 +6,18 @@ modified: 2022-10-03
 showDateUpdated: false
 showAuthor: false
 draft: false
-summary: "David Mytton is CEO of Console (the best tools for developers). He is 
-also researching sustainable computing at the University of Oxford."
+summary: "David Mytton is CEO of Console (the best tools for developers) and an
+angel investor in developer-first startups. He is also researching sustainable
+computing at the University of Oxford."
 ---
 
-Welcome! I’m David Mytton, Co-founder & CEO of [Console](https://console.dev/),
-which launched early-2021 to provide the best tools and jobs for developers. I
-angel invest in early-stage devtools, cloud, and API startups through [Console
-Zero](https://console.dev/zero/).
-
-I am working (part-time, from Oct 2022) towards an [Engineering Science
-PhD](https://www.ox.ac.uk/admissions/graduate/courses/dphil-engineering-science) in [sustainable
-computing](/sustainable-computing/) at the [University of
-Oxford](https://www.ox.ac.uk/). My work has been [featured](/press/) in the media, such as
-The Times, WSJ, Financial Times, Fast Company, Computer Weekly, and Sky News.
-
-Whilst completing an [Environmental Technology
-MSc](https://www.imperial.ac.uk/environmental-policy/msc/) at [Imperial College
-London](https://www.imperial.ac.uk/) 2019-2020, I developed an interest in
-sustainable computing and continued that research on the sustainability team
-at [Uptime Institute](https://uptimeinstitute.com/), a global data center
-advisory organization, between Dec 2020 and Nov 2021.
+Welcome! I’m David Mytton, CEO of [Console](https://console.dev/), which helps
+developers find the best tools. I'm an angel investor in early-stage
+developer-first startups and I'm also working towards an [Engineering Science
+PhD](https://www.ox.ac.uk/admissions/graduate/courses/dphil-engineering-science)
+in sustainable computing at the University of Oxford. My research has been
+[featured](/press/) in The Times, WSJ, Financial Times, Fast Company, Computer
+Weekly, and Sky News.
 
 From 2009-2018, I was Co-founder & CEO at [Server
 Density](https://www.serverdensity.com/), a SaaS infrastructure monitoring
@@ -38,6 +29,13 @@ funding](https://techcrunch.com/2015/12/10/server-density/) through to exit in
 2018 to a US edge computing business, StackPath. As part of the acquisition, I
 joined [StackPath](https://www.stackpath.com/) to lead Product Engineering
 across a suite of edge computing and security products, leaving in Dec 2019.
+
+Whilst completing an [Environmental Technology
+MSc](https://www.imperial.ac.uk/environmental-policy/msc/) at [Imperial College
+London](https://www.imperial.ac.uk/) 2019-2020, I developed an interest in
+sustainable computing and continued that research on the sustainability team
+at [Uptime Institute](https://uptimeinstitute.com/), a global data center
+advisory organization, between Dec 2020 and Nov 2021.
 
 I also founded the [HumanOps](https://www.humanops.com) community in London, San
 Francisco, and New York with Facebook, Financial Times, Spotify, Yelp and
@@ -72,7 +70,7 @@ Oxford. You may want to check out:
 ## Investments
 
 **My current focus is early-stage developer related startups** (devtools,
-devops, infrastructure, cloud, APIs) where I have made [20+
+devops, infrastructure, cloud, APIs) where I have made [30+
 investments](https://console.dev/zero/#portfolio). If you are looking for
 investment, please see [Console Zero](https://console.dev/zero/).
 
@@ -91,27 +89,47 @@ Prior to Console, my investments include
 
 - **Co-founder & CEO, [Console](https://console.dev/)**  
    _November 2020 – Present_  
-   The best tools & jobs for developers.
+   A weekly newsletter for experienced developers (>26k subscribers) to help
+  them find the best tools. It is read by developers from all industries and
+  sectors, including a large number of software investors. The podcast has >13k
+  listeners and we have worked with companies like Ably, Airplane, Incident.io,
+  Retool, Semgrep (r2c), Swimm, Teleport, and WorkOS to reach our audience.
 - **Expert in Residence, [Seedcamp](https://www.seedcamp.com/)**  
    _March 2018 – Present_  
-   Advising Seedcamp portfolio companies on CTO-type issues. Seedcamp funded
-  Server Density in 2009. Unpaid position.
+   Having taken funding from Seedcamp in 2009, David advises their portfolio
+  companies with CTO-type issues ranging from finding the first engineering
+  hire and scaling processes for product development to creating developer
+  communities and building high availability cloud systems. Seedcamp has 450+
+  companies across 4 funds worth over $7bn. Unpaid position.
 
 ### Past
 
 - **Research Affiliate, [Uptime Institute](https://uptimeinstitute.com/)**  
    _December 2020 – November 2021_  
-   Researching sustainable computing.
+   Member of the data center environmental sustainability research team
+  contracted to write reports and speak at (private) member briefings.
+  Published a report on buying renewable energy and presented at multiple
+  industry conferences.
 - **VP, Product Engineering, [StackPath](https://www.stackpath.com/)**  
    _May 2018 – December 2019_  
-   Edge computing for +1 million customers with $200m revenue. Joined as part
-  of the Server Density acquisition.
+   As part of [the acquisition of Server
+  Density](https://blog.stackpath.com/server-density-joins-stackpath), David
+  joined an organisation of 300+ people to lead Product Engineering across a
+  suite of security products generating $200m in revenue from over 1 million
+  customers worldwide. StackPath protects +1 million customers from DDoS
+  attacks, examines 40Tbps of network traffic in real time from custom hardware
+  deployed into 45+ data centres worldwide and provides critical content
+  delivery services for major Fortune 50 enterprises. David was responsible for
+  the product launch of the StackPath edge computing platform.
 - **CEO & Co-founder, [Server Density](https://www.serverdensity.com/)**  
    _April 2009 – May 2018_  
-   SaaS infrastructure monitoring. Acquired by Stackpath, May 2018.
-- **Board Member, [SalesSeek](https://www.salesseek.com/)**  
-   _July 2012 – June 2018_  
-   CRM and marketing SaaS.
+   David Mytton was the Co-Founder and CEO at Server Density, a London-based
+  SaaS infrastructure monitoring startup founded in 2009. David built the
+  original version of Server Density, including the open source monitoring
+  agent and custom time series database used by 700+ customers to manage
+  mission critical IT environments. He grew the company in the UK and US
+  through bootstrapped revenue and subsequent VC funding through to exit in
+  2018 to a US cyber security business, StackPath.
 - **Senior Technical
   Strategist, [eConversions](http://www.econversions.co.uk/)**
   _December 2006 – September 2009_  
