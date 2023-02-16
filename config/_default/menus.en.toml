@@ -31,24 +31,24 @@ pageRef = "press"
 weight = 4
 
 [[main]]
+name = "Investments"
+pageRef = "investments"
+weight = 5
+
+[[main]]
 name = "Sustainable Computing"
 pageRef = "sustainable-computing"
-weight = 5
+weight = 6
 
 [[main]]
 name = "Reading"
 pageRef = "reading"
-weight = 6
-
-[[main]]
-name = "Uses"
-pageRef = "uses"
 weight = 7
 
 [[main]]
 name = "Contact"
 pageRef = "contact"
-weight = 8
+weight = 9
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

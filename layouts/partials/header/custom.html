@@ -29,13 +29,13 @@
         <ul class="flex flex-wrap list-none ltr:text-right rtl:text-left">
           {{ if .Site.Menus.main }}
             {{ range .Site.Menus.main }}
-              <li class="mb-1 mr-3 sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+              <li class="mb-1 mr-3 sm:gap-10 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
                 <a
                   class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
                   href="{{ .URL }}"
                   title="{{ .Title }}"
                   >{{ .Name | markdownify | emojify }}</a
-                >
+                >&nbsp;
               </li>
             {{ end }}
           {{ end }}
@@ -46,7 +46,7 @@
                 class="text-base hover:text-primary-600 dark:hover:text-primary-400"
                 title="{{ i18n "search.open_button_title" }}"
               >
-                {{ partial "icon.html" "search" }}
+                {{ partial "icon.html" "search" }}&nbsp;
               </button>
             </li>
           {{ end }}
@@ -55,7 +55,7 @@
               href="/subscribe/"
               title="RSS Feed"
               >{{ partial "icon.html" "rss-solid" }}</a
-            >
+            >&nbsp;
           </li>
         </ul>
       {{ end }}

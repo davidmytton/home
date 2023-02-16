@@ -69,19 +69,10 @@ Oxford. You may want to check out:
 
 ## Investments
 
-**My current focus is early-stage developer related startups** (devtools,
-devops, infrastructure, cloud, APIs) where I have made [30+
-investments](https://console.dev/zero/#portfolio). If you are looking for
-investment, please see [Console Zero](https://console.dev/zero/).
-
-Prior to Console, my investments include
-[Atmo](https://www.atmo.ai), [Contingent](https://www.contingent.ai/),
-[Graphy](https://graphyapp.com/), [Gaiascope](https://www.gaia-scope.com/),
-[Living Carbon](https://www.livingcarbon.com/), [Loc.tax](https://www.loc.tax/),
-[Monzo](https://monzo.com/), [Primer](https://primer.io/),
-[SignTime](https://www.signtime.com/),
-[Sinai](https://www.sinaitechnologies.com), [StackPath](https://www.stackpath.com/),
-[Sylvera](https://www.sylvera.io/).
+I regularly angel invest into early-stage startups where developers are the
+primary user. I’m interested in anything that we’d feature in the
+[Console](https://console.dev/) devtools newsletter. See
+[Investments](/investments/) for more detail.
 
 ## Roles
 
