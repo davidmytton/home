@@ -11,24 +11,25 @@ startups, regularly investing into companies where developers are the primary
 user."
 ---
 
-I regularly angel invest into early-stage startups where developers are the
-primary user.
+As the CEO of [Console](https://console.dev), I'm interested in anything that
+we'd feature in our devtools newsletter and regularly angel invest into
+early-stage startups where developers are the primary user.
 
-I'm interested in anything that we'd feature in the
-[Console](https://console.dev) devtools newsletter. With an audience of >26k
-experienced developers, the most specific thing I bring is helping reach early
-users. A feature in the Console newsletter can easily result in several thousand
-new signups. I also have experience building early engineering teams and
-advising on developer experience and developer go-to-market.
+With an audience of >26k experienced developers, the most specific thing I bring
+is helping reach early users. A feature in the Console newsletter can easily
+result in several thousand new signups!
+
+I also have experience building early engineering teams and advising on
+developer experience and developer go-to-market.
 
 ## What I invest in
 
 Anything where developers are the primary user - cloud, devtools, APIs, devops,
 security, SaaS, open source. I apply the [Console selection
-criteria](https://console.dev/selection-criteria/) plus [my own investing
-criteria](https://blog.console.dev/devtools-startups-standing-out-to-investors/)
-and typically invest $25k. I invest globally, although most of my investments
-are in the US. Israel and Europe are also well represented!
+criteria](https://console.dev/selection-criteria/) plus [my
+own](https://blog.console.dev/devtools-startups-standing-out-to-investors/) and
+typically invest $25k. I invest globally, although most of my investments are in
+the US. Israel and Europe are also well represented!
 
 Reach out: <david@console.dev>
 
