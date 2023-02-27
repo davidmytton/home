@@ -74,8 +74,8 @@ This means you can’t use the average carbon intensity to accurately calculate
 the carbon footprint of a workload that is running for just a few hours or days.
 The grid mix fluctuations are smoothed out and mean that any estimate would be
 either under- or over-estimating the total carbon. This is a limitation in a
-study that was just published in preprint considering the factors influencing
-the emissions of machine learning.
+study that was [just published in preprint](https://arxiv.org/abs/2302.08476) 
+considering the factors influencing the emissions of machine learning.
 
 Better transparency is [a running theme](/tags/transparency/) of my posts
 because without hourly (at least) tracking of emissions it’s difficult to
