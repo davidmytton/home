@@ -2,7 +2,7 @@
 title: "Press"
 date: 2017-12-01
 showDate: false
-modified: 2023-01-17
+modified: 2023-03-01
 showDateUpdated: false
 showAuthor: false
 draft: false
@@ -11,6 +11,9 @@ summary: "David Mytton press coverage and media appearances."
 
 ## Quotes / interviews
 
+- [28 Feb 2023 - Artificial intelligence training is powered mostly by fossil fuels
+  use](https://www.newscientist.com/article/2361343-artificial-intelligence-training-is-powered-mostly-by-fossil-fuels/)
+  _New Scientist_
 - [17 Jan 2023 - Google has finally revealed how much water its data centres
   use](https://www.newscientist.com/article/2354801-google-has-finally-revealed-how-much-water-its-data-centres-use/)
   _New Scientist_
