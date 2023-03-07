@@ -1,7 +1,7 @@
 ---
 title: "Web"
 date: 2023-01-03
-modified: 2023-03-03
+modified: 2023-03-06
 draft: false
 summary: "Attacking web applications."
 ---
@@ -34,3 +34,22 @@ See <https://academy.hackthebox.com/module/109/section/1032>
 
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection)
 - [Bashfuscator](https://github.com/Bashfuscator/Bashfuscator)
+
+## File upload
+
+See <https://academy.hackthebox.com/module/136/section/1291>
+
+## Brute forcing
+
+- Hydra - [logins](https://academy.hackthebox.com/module/57/section/489) and [forms](https://academy.hackthebox.com/module/57/section/503).
+- [CUPP](https://github.com/Mebus/cupp) - customized wordlists.
+  - [Username Anarchy](https://github.com/urbanadventurer/username-anarchy) - username generator.
+  - See also [other tools](https://academy.hackthebox.com/module/57/section/512).
+
+If we know the password rules:
+
+```shell
+sed -ri '/^.{,7}$/d' words.txt # remove shorter than 8
+sed -ri '/[!-/:-@\[-`\{-~]+/!d' words.txt # remove no special chars
+sed -ri '/[0-9]+/!d' words.txt # remove no numbers
+```
