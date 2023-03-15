@@ -2,7 +2,7 @@
 title: "Press"
 date: 2017-12-01
 showDate: false
-modified: 2023-03-01
+modified: 2023-03-15
 showDateUpdated: false
 showAuthor: false
 draft: false
@@ -11,6 +11,8 @@ summary: "David Mytton press coverage and media appearances."
 
 ## Quotes / interviews
 
+- [14 Mar 2023 - Energy from data centre harnessed to heat swimming
+  pools](https://www.thetimes.co.uk/article/energy-from-data-centre-harnessed-to-heat-swimming-pools-mg0zpj8xg) _The Times_
 - [28 Feb 2023 - Artificial intelligence training is powered mostly by fossil fuels
   use](https://www.newscientist.com/article/2361343-artificial-intelligence-training-is-powered-mostly-by-fossil-fuels/)
   _New Scientist_
