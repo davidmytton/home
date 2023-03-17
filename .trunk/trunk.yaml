@@ -8,6 +8,7 @@ plugins:
       uri: https://github.com/trunk-io/plugins
 lint:
   enabled:
+    - yamllint@1.29.0
     - actionlint@1.6.23
     - oxipng@8.0.0
     - prettier@2.8.4
@@ -24,8 +25,9 @@ lint:
         - themes/*
 runtimes:
   enabled:
-    - go@1.18.3
-    - node@16.14.2
+    - python@3.10.8
+    - go@1.19.5
+    - node@18.12.1
 actions:
   enabled:
     - trunk-announce
