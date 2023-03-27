@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Computing"
 date: 2017-12-01
-modified: 2023-02-14
+modified: 2023-03-27
 showDate: false
 showDateUpdated: true
 showAuthor: false
@@ -15,6 +15,10 @@ which I am actively pursuing in the [Department of Engineering
 Science](https://eng.ox.ac.uk/) at the [University of
 Oxford](https://www.ox.ac.uk/). I maintain this page as a set of resources about
 sustainable computing that I find useful.
+
+{{< alert "edit" >}}
+[Subscribe](https://www.devsustainability.com/) to my articles on sustainable computing on Substack.
+{{< /alert >}}
 
 ### What is sustainable computing?
 
