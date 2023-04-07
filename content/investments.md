@@ -11,7 +11,7 @@ startups, regularly investing into companies where developers are the primary
 user."
 ---
 
-As the CEO of [Console](https://console.dev), a devtools focused newsletters,
+As the CEO of [Console](https://console.dev), a devtools focused newsletter,
 I'm interested in angel investing in any early-stage startups where developers
 are the primary user.
 
