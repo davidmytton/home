@@ -86,7 +86,10 @@ in relation to extreme projections for future IT energy usage.
 
 Perhaps a revised version could compare the estimates from the commercial
 cooling specs alongside the industry average and reported values from Facebook.
-That would be an interesting illustration.
+That would be an interesting illustration. The methodology also needs
+clarification - different numbers are cited at different points, the ranges are
+wide, and the graphs in the appendix aren't helpful in understanding the actual
+values used in the calculations.
 
 Researchers must exercise caution when selecting model inputs, avoiding the
 temptation to adopt the highest possible value. They should show the range.
