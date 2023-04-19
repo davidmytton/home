@@ -80,7 +80,7 @@ carbon, [zero water is not necessarily the goal](https://davidmytton.blog/zero-w
 Being a preprint, the article may undergo significant changes before
 publication, if it is published at all1. However, this is another example of
 selecting the high end of a range of possible input values to suit a particular
-narrative. We’ve seen similar scare tactics used when discussing[ “digital
+narrative. We’ve seen similar scare tactics used when discussing [“digital
 sobriety”](https://www.devsustainability.com/p/value-judgments-and-sustainable-computing)
 in relation to extreme projections for future IT energy usage.
 
