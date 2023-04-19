@@ -60,9 +60,9 @@ industry leader in data center water footprint, reports 0.26 L/kWh
 ([pg39](https://sustainability.fb.com/wp-content/uploads/2022/06/Meta-2021-Sustainability-Report.pdf)).
 [Microsoft’s WUE
 ranges](https://azure.microsoft.com/en-us/blog/how-microsoft-measures-datacenter-water-and-energy-use-to-improve-azure-cloud-sustainability/)
-from 0.1 L/kWh (Middle East) to 1.65 L/kWh (Asia Pacific), with the Americas
-sitting in the middle (0.55 L/kWh). Google's efficiency is likely similar,
-making the graphed values excessive.
+from 0.1 L/kWh (EMEA) to 1.65 L/kWh (Asia Pacific), with the Americas sitting in
+the middle (0.55 L/kWh). Google's efficiency is likely similar, making the
+graphed values excessive.
 
 ![Graph of Facebook WUE](fb-wue.png "Annual data center water usage
 effectiveness, from[ Meta’s Sustainability report
