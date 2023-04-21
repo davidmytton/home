@@ -2,7 +2,7 @@
 title: "Investments"
 date: 2023-02-16
 showDate: false
-modified: 2023-03-01
+modified: 2023-04-21
 showDateUpdated: false
 showAuthor: false
 draft: false
@@ -32,6 +32,7 @@ Reach out: <david@console.dev>
 ## Investments
 
 - [Appflowy](https://www.appflowy.io/)
+- [Astral](https://astral.sh/)
 - [Cased](https://cased.com/)
 - [CloudQuery](https://www.cloudquery.io/)
 - [Cyscale](https://cyscale.com/)
