@@ -16,19 +16,16 @@ I'm interested in angel investing in any early-stage startups where developers
 are the primary user.
 
 With an audience of >26k experienced developers, the most specific thing I bring
-is helping reach early users. A feature in the Console newsletter can easily
-result in several thousand new signups! I also have experience building early
-engineering teams and advising on developer experience and developer
-go-to-market.
+is helping reach early users. I also have experience building early engineering
+teams and what is needed to build a good developer experience.
 
 ## What I invest in
 
 Anything where developers are the primary user - cloud, devtools, APIs, devops,
 security, SaaS, open source. I apply the [Console selection
 criteria](https://console.dev/selection-criteria/) to [my own investing
-criteria](https://blog.console.dev/devtools-startups-standing-out-to-investors/)
-and typically invest $25k. I invest globally, although most of my investments
-are in the US. Israel and Europe are also well represented!
+criteria](/devtools-startups-standing-out-to-investors/) and typically invest
+$25k. I invest globally, although most of my investments are in the US.
 
 Reach out: <david@console.dev>
 
