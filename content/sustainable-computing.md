@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Computing"
 date: 2017-12-01
-modified: 2023-03-27
+modified: 2023-04-21
 showDate: false
 showDateUpdated: true
 showAuthor: false
@@ -82,8 +82,8 @@ consistent reporting.
 Interesting sources of data related to sustainable computing:
 
 - **[Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/)**. The
-  headline figure is 97 TWh of annualised energy consumption, but with a range
-  of 35 TWh – 364 TWh. However the missing context is how that electricity is
+  headline figure is 143 TWh of annualised energy consumption, but with a range
+  of 65 TWh – 236 TWh. However the missing context is how that electricity is
   generated. Distinguishing between whether that came from fossil fuels or
   renewables is important ([39% renewables, primarily
   hydro](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/3rd-global-cryptoasset-benchmarking-study/)),
@@ -98,7 +98,9 @@ Interesting sources of data related to sustainable computing:
   the leader in sustainable cloud computing. They have done the most work and
   made the most progress at reaching carbon neutrality, then 100% renewables
   matching, and have a goal to hit 24/7 carbon free by 2030. They are less
-  transparent on water consumption, but do publish data on their carbon free
+  transparent on water consumption ([publishing some
+  numbers](https://blog.google/outreach-initiatives/sustainability/our-commitment-to-climate-conscious-data-center-cooling/)
+  for their data centers in the US), but do publish data on their carbon free
   energy percentage for each GCP region.
 - **[SPECPower database](https://www.spec.org/power_ssj2008/results/)**. The
   Standard Performance Evaluation Corporation (SPEC) provides quarterly test
