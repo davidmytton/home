@@ -1,7 +1,7 @@
 ---
 title: "Reading"
 date: 2017-12-01
-modified: 2023-04-21
+modified: 2023-07-04
 showDate: false
 showDateUpdated: true
 showAuthor: false
@@ -28,13 +28,17 @@ system is as follows:
 
 ## 2023
 
-| Author        | Title                      | Published | Rating |
-| ------------- | -------------------------- | --------- | ------ |
-| Frank Herbert | Dune Messiah               | 1969      | Ok     |
-| Chris Miller  | Chip War                   | 2022      | Ok     |
-| James Corey   | Caliban's War              | 2012      | Good   |
-| Thomas Sowell | The Vision of the Anointed | 1996      | Good   |
-| James Corey   | Leviathan Wakes            | 2011      | Good   |
+| Author                             | Title                      | Published | Rating |
+| ---------------------------------- | -------------------------- | --------- | ------ |
+| Robert Harris                      | Pompeii                    | 2003      | Good   |
+| Will Larson                        | An Elegant Puzzle          | 2019      | Ok     |
+| Ramadan, Peterson, Lockhead, Maney | Play Bigger                | 2016      | Good   |
+| Daniel Suarez                      | Delta-V                    | 2019      | Good   |
+| Frank Herbert                      | Dune Messiah               | 1969      | Ok     |
+| Chris Miller                       | Chip War                   | 2022      | Ok     |
+| James Corey                        | Caliban's War              | 2012      | Good   |
+| Thomas Sowell                      | The Vision of the Anointed | 1996      | Good   |
+| James Corey                        | Leviathan Wakes            | 2011      | Good   |
 
 ## 2022
 
