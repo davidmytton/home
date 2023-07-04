@@ -11,13 +11,13 @@ startups, regularly investing into companies where developers are the primary
 user."
 ---
 
-As the CEO of [Console](https://console.dev), a devtools focused newsletter,
 I'm interested in angel investing in any early-stage startups where developers
 are the primary user.
 
-With an audience of >26k experienced developers, the most specific thing I bring
-is helping reach early users. I also have experience building early engineering
-teams and what is needed to build a good developer experience.
+With the [Console](https://console.dev) newsletter audience of >27k experienced
+developers, the most specific thing I bring is helping reach early users. I also
+have experience building early engineering teams and what is needed to build a
+good developer experience.
 
 ## What I invest in
 

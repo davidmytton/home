@@ -81,12 +81,11 @@ Another advantage of using files on disk is that I can control how they sync.
 The app may provide its own sync service, but I want the option to choose
 Dropbox, Google Drive, iCloud Drive or some other system. Indeed, for privacy
 reasons I have been using [Syncthing connected over a private P2P network using
-Tailscale](https://console.dev/articles/private-p2p-encrypted-file-sync-syncthing-tailscale/).
-This means most of my files are entirely private and encrypted and can sync very
-fast over my local network. There are tradeoffs e.g. no mobile apps or web UI,
-but I use OneDrive for those files that I need to share or access elsewhere.
-Files on disk can also be backed up independently. I use a combination of Apple
-Time Machine and [Arq](https://www.arqbackup.com/).
+Tailscale. This means most of my files are entirely private and encrypted and
+can sync very fast over my local network. There are tradeoffs e.g. no mobile
+apps or web UI, but I use OneDrive for those files that I need to share or
+access elsewhere. Files on disk can also be backed up independently. I use a
+combination of Apple Time Machine and [Arq](https://www.arqbackup.com/).
 
 ![Screenshot of the Syncthing admin panel](syncthing-admin.png "Syncing files
 over my private P2P encrypted network using Syncthing and Tailscale.")
@@ -283,10 +282,8 @@ there is. If you don't need structured data then it doesn't really matter.
 Obsidian is cross platform and includes an optional paid sync service, which is
 useful if you want to use their mobile app. I rarely take notes on mobile so I
 don’t need it, instead syncing everything using [Syncthing connected to a
-private network using
-Tailscale](https://console.dev/articles/private-p2p-encrypted-file-sync-syncthing-tailscale/).
-It's marketed as end to end encrypted, which is great, but you have to trust
-them on that because it's not open source.
+private network using Tailscale. It's marketed as end to end encrypted, which is
+great, but you have to trust them on that because it's not open source.
 
 But the killer functionality comes from the community plugins, and [the Kindle
 Sync plugin](https://github.com/hadynz/obsidian-kindle-plugin) in particular. I

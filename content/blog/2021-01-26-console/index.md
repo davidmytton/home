@@ -68,11 +68,10 @@ always something new to play with. I really enjoy trying new tools, but unless
 you constantly live on Twitter, Reddit, Hacker News, and developer forums, it is
 easy to miss the best things.
 
-Console aims to become the
-place [developers](https://blog.console.dev/focusing-on-developers/) go to find
-the best tools. Starting as a weekly newsletter, each week we will pick out the
-most interesting tools and new releases. We keep track of everything – dev
-tools, devops, cloud, and APIs – so you don’t have to.
+Console aims to become the place developers go to find the best tools. Starting
+as a weekly newsletter, each week we will pick out the most interesting tools
+and new releases. We keep track of everything – dev tools, devops, cloud, and
+APIs – so you don’t have to.
 
 This will be my full-time focus, alongside my two co-founders. There are no
 plans to raise money, but I will be continuing my angel investing and pro-bono

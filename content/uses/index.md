@@ -71,8 +71,7 @@ MacBook Air running macOS.")
   - **Code:** Git + GitHub.
   - **Editor**: VS Code.
   - **File Storage /
-    Sync:** [Syncthing](https://syncthing.net/) + [Tailscale](https://tailscale.com/) ([setup
-    details](https://console.dev/articles/private-p2p-encrypted-file-sync-syncthing-tailscale/)),
+    Sync:** [Syncthing](https://syncthing.net/) + [Tailscale](https://tailscale.com/),
     OneDrive (via Microsoft 365, personal) and Google Drive
     ([Console](https://console.dev/))
   - **Mail:** Microsoft 365 + Outlook Web (personal) and GMail Web

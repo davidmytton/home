@@ -6,14 +6,19 @@ modified: 2022-10-03
 showDateUpdated: false
 showAuthor: false
 draft: false
-summary: "David Mytton is CEO of Console (the best tools for developers) and an
-angel investor in developer-first startups. He is also researching sustainable
-computing at the University of Oxford."
+summary: "David Mytton is CEO of Arcjet (helping developers protect their
+apps), Co-founder of Console (the best tools for developers) and an active
+devtools investor. He is also researching sustainable computing at the
+University of Oxford."
 ---
 
-Welcome! I’m David Mytton, CEO of [Console](https://console.dev/), which helps
-developers find the best tools. I'm an angel investor in early-stage
-developer-first startups and I'm also working towards an [Engineering Science
+Welcome! I’m David Mytton, CEO of [Arcjet](https://arcjet.com), a software
+startup that helps developers protect their apps. I'm also co-founder of
+[Console](https://console.dev/), a devtools newsletter which helps developers
+find the best tools.
+
+I'm an angel investor in early-stage developer-first startups and I'm also
+working towards an [Engineering Science
 PhD](https://www.ox.ac.uk/admissions/graduate/courses/dphil-engineering-science)
 in sustainable computing at the University of Oxford. My research has been
 [featured](/press/) in The Times, WSJ, Financial Times, Fast Company, Computer
@@ -44,9 +49,11 @@ PagerDuty aimed at
 how to deal with the human side of system operations: on-call, incident
 response, stress, fatigue, post-mortems and human process design.
 
-I am an Expert in Residence at [Seedcamp](https://www.seedcamp.com/) (unpaid), a
-London-based seed fund with 430+ portfolio companies ([who also funded Server
-Density](https://www.theguardian.com/media/pda/2009/sep/10/startups-digital-media)).
+From 2018 to 2023 I was an Expert in Residence
+at [Seedcamp](https://www.seedcamp.com/) (unpaid), a London-based seed fund with
+450+ portfolio companies ([who also funded Server
+Density](https://www.theguardian.com/media/pda/2009/sep/10/startups-digital-media),
+and are now also an investor in Arcjet).
 
 ## Sustainable computing research
 
@@ -78,23 +85,26 @@ primary user. I’m interested in anything that we’d feature in the
 
 ### Current
 
-- **Co-founder & CEO, [Console](https://console.dev/)**  
-   _November 2020 – Present_  
+- **CEO, [Arcjet](https://arcjet.com/)**
+  _Jun 2023 – Present_
+  Helping developers protect their apps. Not yet launched.
+- **Co-founder, [Console](https://console.dev/)**
+  _November 2020 – Present_  
    A weekly newsletter for experienced developers (>26k subscribers) to help
   them find the best tools. It is read by developers from all industries and
   sectors, including a large number of software investors. The podcast has >13k
   listeners and we have worked with companies like Ably, Airplane, Incident.io,
   Retool, Semgrep (r2c), Swimm, Teleport, and WorkOS to reach our audience.
+
+### Past
+
 - **Expert in Residence, [Seedcamp](https://www.seedcamp.com/)**  
-   _March 2018 – Present_  
-   Having taken funding from Seedcamp in 2009, David advises their portfolio
+   _March 2018 – May 2023_  
+   Having taken funding from Seedcamp in 2009, David advised their portfolio
   companies with CTO-type issues ranging from finding the first engineering
   hire and scaling processes for product development to creating developer
   communities and building high availability cloud systems. Seedcamp has 450+
   companies across 4 funds worth over $7bn. Unpaid position.
-
-### Past
-
 - **Research Affiliate, [Uptime Institute](https://uptimeinstitute.com/)**  
    _December 2020 – November 2021_  
    Member of the data center environmental sustainability research team

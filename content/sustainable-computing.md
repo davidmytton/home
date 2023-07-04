@@ -70,8 +70,8 @@ consistent reporting.
   weekly newsletter because it provides a good summary of interesting news,
   events and podcasts related to what the technology sector can do to help
   climate change. I’m not in the Slack group though because I try and [avoid
-  group chat](https://m.signalvnoise.com/is-group-chat-making-you-sweat/) [where
-  possible](https://blog.console.dev/console-culture-considered-discussion/).
+  group chat](https://m.signalvnoise.com/is-group-chat-making-you-sweat/) where
+  possible.
 - **[Green Software Foundation](https://greensoftware.foundation/)**. A group of
   technologists (primarily from commercial organizations) working on standards
   and best practices to help software developers build more sustainable

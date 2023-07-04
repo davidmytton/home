@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-theme = "congo-2.4.2"
+theme = "congo-2.6.1"
 baseURL = "https://davidmytton.blog/"
 defaultContentLanguage = "en"
 languageCode = 'en-us'
