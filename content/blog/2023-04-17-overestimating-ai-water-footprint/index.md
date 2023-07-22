@@ -78,9 +78,10 @@ how much it counts has to be considered relative to the local resources. Unlike
 carbon, [zero water is not necessarily the goal](https://davidmytton.blog/zero-water-in-our-data-centers-by-2030-mission-impossible/).
 
 Being a preprint, the article may undergo significant changes before
-publication, if it is published at all1. However, this is another example of
-selecting the high end of a range of possible input values to suit a particular
-narrative. We’ve seen similar scare tactics used when discussing [“digital
+publication, if it is published at all[^published]. However, this is another
+example of selecting the high end of a range of possible input values to suit a
+particular narrative. We’ve seen similar scare tactics used when discussing
+[“digital
 sobriety”](https://www.devsustainability.com/p/value-judgments-and-sustainable-computing)
 in relation to extreme projections for future IT energy usage.
 
@@ -95,3 +96,9 @@ Researchers must exercise caution when selecting model inputs, avoiding the
 temptation to adopt the highest possible value. They should show the range.
 Overestimates only undermine the credibility of vital environmental research
 topics.
+
+[^published]:
+    I also find it interesting how popular it is to publicize
+    preprints before they have been peer reviewed. Academia is painfully slow, so I
+    understand the desire to get things out, but there is a reason for independent
+    review.

@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Computing"
 date: 2017-12-01
-modified: 2023-04-21
+modified: 2023-07-22
 showDate: false
 showDateUpdated: true
 showAuthor: false
@@ -120,6 +120,13 @@ Interesting sources of data related to sustainable computing:
 Here are the most important academic papers related to sustainable computing,
 but [I also publish notes](/tags/paper-notes/) about papers I read:
 
+- **[ICT Sector Electricity Consumption and Greenhouse Gas Emissions – 2020
+  Outcome](https://doi.org/10.2139/ssrn.4424264)** _SSRN Electronic Journal_
+  (2023). This is the most up to date analysis of the total electricity
+  consumption and GHG emissions of the whole ICT sector. It shows that ICT is
+  estimated to account for ~4% of global electricity consumption in 2020. Data
+  center energy consumption is estimated at 223 TWh and network energy
+  consumption is estimated at 272 TWh.
 - **[The environmental footprint of data centers in the United
   States.](https://doi.org/10.1088/1748-9326/abfba1)** *Environmental Research
   Letters.* (2021). This paper discusses the wider impact of data centres but
