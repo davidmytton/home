@@ -2,7 +2,7 @@
 title: "Investments"
 date: 2023-02-16
 showDate: false
-modified: 2023-04-21
+modified: 2023-07-22
 showDateUpdated: false
 showAuthor: false
 draft: false
@@ -31,30 +31,31 @@ Reach out: <david@console.dev>
 
 ## Investments
 
-- [Appflowy](https://www.appflowy.io/)
+- [Appflowy](https://appflowy.io/)
 - [Astral](https://astral.sh/)
 - [Cased](https://cased.com/)
 - [CloudQuery](https://www.cloudquery.io/)
 - [Cyscale](https://cyscale.com/)
 - [Daily.dev](https://daily.dev/)
 - [Drifting In Space](https://driftingin.space/)
-- [Eraser](https://www.tryeraser.com/)
+- [Eraser](https://www.eraser.io/)
 - [Forward Email](https://forwardemail.net/)
 - [Grafbase](https://grafbase.com/)
 - [Liveblocks](https://liveblocks.io/)
 - [Memphis](https://memphis.dev/)
 - [Moving Parts](https://movingparts.io/)
+- [OpenObserve](https://openobserve.ai/)
 - [Primer](https://primer.io/)
 - [Railway](https://railway.app/)
+- [Resend](https://resend.com/)
 - [Rowy](https://www.rowy.io/)
 - [Snaplet](https://www.snaplet.dev/)
 - [Signoz](https://signoz.io/)
-- [Steadybit](https://www.steadybit.com/)
+- [Steadybit](https://steadybit.com/)
 - [Spacedrive](https://www.spacedrive.com/)
 - [Trunk](https://trunk.io/)
 - [Utopia](https://utopia.app/)
 - [Videobug](https://www.bug.video/)
-- [ZincSearch](https://zincsearch.com/)
 - ...plus several others not yet announced.
 
 ### Non-devtools investments
