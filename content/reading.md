@@ -1,7 +1,7 @@
 ---
 title: "Reading"
 date: 2017-12-01
-modified: 2023-07-04
+modified: 2023-12-10
 showDate: false
 showDateUpdated: true
 showAuthor: false
@@ -30,6 +30,11 @@ system is as follows:
 
 | Author                             | Title                      | Published | Rating |
 | ---------------------------------- | -------------------------- | --------- | ------ |
+| Patrick Rothfuss                   | The Wise Man's Fear        | 2011      | Good   |
+| Patrick Rothfuss                   | The Name of the Wind       | 2007      | Good   |
+| Walter Isaacson                    | Steve Jobs                 | 2011      | Good   |
+| Orson Scott                        | Ender's Game               | 1985      | Good   |
+| Tom Holland                        | Rubicon                    | 2004      | Good   |
 | Robert Harris                      | Pompeii                    | 2003      | Good   |
 | Will Larson                        | An Elegant Puzzle          | 2019      | Ok     |
 | Ramadan, Peterson, Lockhead, Maney | Play Bigger                | 2016      | Good   |
